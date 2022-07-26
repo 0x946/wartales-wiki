@@ -38,7 +38,6 @@ nav:
 
   - Companions:
       - "companions/index.md"
-      - Aptitude: "companions/aptitude.md"
       - Attributes: "companions/attributes.md"
       - Base Classes:
         - Archer: "companions/archer.md"
@@ -46,7 +45,9 @@ nav:
         - Ranger: "companions/ranger.md"
         - Swordsman: "companions/swordsman.md"
         - Warrior: "companions/warrior.md"
+      - Equipment: "companions/equipment.md"
       - Experience: "companions/experience.md"
+      - Injuries: "companions/injuries.md"
       - Professions: "companions/professions.md"
       - Rank: "companions/rank.md"
       - Recruitment: "companions/recruitment.md"

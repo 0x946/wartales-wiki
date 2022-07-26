@@ -166,8 +166,9 @@ a.md-nav__link--active:before {
 .admonition {
     border-radius: 5px !important;
     background-color: #35312e !important;
-    border-left-color: #25211e !important;
     color: #94928e !important;
+    box-shadow: 0px 0px 0px 1px #16120e !important;
+    border: 1px solid #45413e !important;
 }
 .md-tooltip.md-tooltip--active {
     background-color: #25211e !important;
@@ -196,4 +197,22 @@ a.md-nav__link--active:before {
 }
 .md-content__inner.md-typeset a:hover {
     color: #b6b4af !important;
+}
+.md-typeset table:not([class]) {
+    box-shadow: 0px 0px 0px 1px #16120e !important;
+    border-radius: .2rem;
+    background-color: #35312e;
+}
+
+.md-typeset table:not([class]) thead th {
+    padding: .5rem .5rem;
+    margin: .5rem .5rem;
+    border-bottom: .05rem solid #25211e;
+}
+.md-typeset table:not([class]) tbody td {
+    padding: .25rem .5rem;
+    margin: .25rem .5rem;
+    vertical-align: middle;
+    border-top: .05rem solid #45413e;
+    border-bottom: .05rem solid #25211e;
 }
