@@ -1,0 +1,126 @@
+site_name: WarTales Wiki
+site_description: WarTales Wiki
+site_author: null
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+  font:
+    text: Fira Sans
+    code: Fira Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+  logo: static/img/logo.jpg
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  generator: false
+
+extra_css:
+  - static/stylesheets/custom.css
+
+nav:
+  - WarTales:
+    - "index.md"
+    - Gameplay: "gameplay.md"
+
+  - Companions:
+      - "companions/index.md"
+      - Aptitude: "companions/aptitude.md"
+      - Attributes: "companions/attributes.md"
+      - Base Classes:
+        - Archer: "companions/archer.md"
+        - Brute: "companions/brute.md"
+        - Ranger: "companions/ranger.md"
+        - Swordsman: "companions/swordsman.md"
+        - Warrior: "companions/warrior.md"
+      - Experience: "companions/experience.md"
+      - Professions: "companions/professions.md"
+      - Rank: "companions/rank.md"
+      - Recruitment: "companions/recruitment.md"
+      - Relationships: "companions/relationships.md"
+      - Specialization: "companions/specialization.md"
+      - Status: "companions/status.md"
+      - Titles: "companions/titles.md"
+      - Traits: "companions/traits.md"
+
+  - Camp:
+    - "camp/index.md"
+    - Campfire: "camp/campfire.md"
+    - Camp Chest: "camp/camp_chest.md"
+    - Cooking Pot: "camp/cooking_pot.md"
+    - Lectern: "camp/lectern.md"
+    - Meat Drying Rack: "camp/meat_drying_rack.md"
+    - Strategy Table: "camp/strategy_table.md"
+    - Tent: "camp/tent.md"
+    - Watchkeeping Stool: "camp/watchkeeping_stool.md"
+    - Workshop: "camp/workshop.md"
+
+  - Inventory:
+    - "inventory/index.md"
+    - Armor:
+      - Animal Accessories: "inventory/animal_accessories.md"
+      - Backpack Accessories: "inventory/backpack_accessories.md"
+      - Belt Accessories: "inventory/belt_accessories.md"
+      - Light Armor: "inventory/light_armor.md"
+      - Medium Armor: "inventory/medium_armor.md"
+      - Heavy Armor: "inventory/heavy_armor.md"
+    - Camping Gear: "inventory/camping_gear.md"
+    - Components: "inventory/components.md"
+    - Consumables: "inventory/consumables.md"
+    - Food:
+      - Alcohol: "inventory/alcohol.md"
+      - Cooked Meal: "inventory/cooked_meal.md"
+      - Fish: "inventory/fish.md"
+      - Food: "inventory/food.md"
+      - Meat: "inventory/meat.md"
+      - Vegetables: "inventory/vegetables.md"
+      - Plants: "inventory/plants.md"
+    - Hunt Map: "inventory/hunt_map.md"
+    - Manual: "inventory/manual.md"
+    - Miscellaneous: "inventory/miscellaneous.md"
+    - Recipes: "inventory/recipes.md"
+    - Trade Goods: "inventory/trade_goods.md"
+    - Trinkets: "inventory/trinkets.md"
+    - Weapons:
+      - Swords: "inventory/swords.md"
+      - Bows: "inventory/bows.md"
+      - Maces: "inventory/maces.md"
+      - Axes: "inventory/axes.md"
+      - Daggers: "inventory/daggers.md"
+      - Polearms: "inventory/polearms.md"
+      - Shields: "inventory/shields.md"
+      - Off-Hand: "inventory/offhand.md"
+
+  - Compendium:
+      - "compendium/index.md"
+      - Knowledge: "compendium/knowledge.md"
+      - Workshop: "compendium/workshop.md"
+      - Anvil: "compendium/anvil.md"
+      - Cooking Pot: "compendium/cooking_pot.md"
+      - Apothecary Table: "compendium/apothecary_table.md"
+
+  - World Map:
+      - "world/index.md"
+      - Tiltren County: "world/tiltren_county.md"
+      - County of Arthes: "world/county_of_arthes.md"
+      - Vertruse Province: "world/vertruse_province.md"
+      - Ludern Region: "world/ludern_region.md"
+
+  - Paths:
+      - "paths/index.md"
+      - Power and Might: "paths/power_and_might.md"
+      - Trade and Wealth: "paths/trade_and_wealth.md"
+      - Crime and Chaos: "paths/crime_and_chaos.md"
+      - Mysteries and Wisdom: "paths/mysteries_and_wisdom.md"

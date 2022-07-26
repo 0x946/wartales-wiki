@@ -1,0 +1,180 @@
+:root {
+
+    /* Primary color shades */
+    --md-default-fg-color: #000000 !important;
+    --md-primary-fg-color: #16120e;
+    --md-primary-fg-color--light: #861f4194;
+    --md-primary-fg-color--dark: #ac325a;
+    --md-primary-bg-color: hsla(0, 0%, 100%, 1);
+    --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
+    --md-text-link-color: hsla(231, 48%, 48%, 1);
+    /* Accent color shades */
+    --md-accent-fg-color: #a5a39f;
+    --md-accent-fg-color--transparent: hsla(189, 18%, 29%, 0.1);
+    --md-accent-bg-color: hsla(0, 0%, 100%, 1);
+    --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
+  }
+
+  :root > * {
+
+    /* Code block color shades */
+    --md-code-bg-color: #94928e !important;
+    --md-code-fg-color:  #25211e !important;
+
+    /* Footer */
+    --md-footer-bg-color: #16120e;
+    --md-footer-bg-color--dark: hsla(0, 0%, 0%, 0.32);
+    --md-footer-fg-color: hsla(0, 0%, 100%, 1);
+    --md-footer-fg-color--light: hsla(0, 0%, 100%, 0.7);
+    --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
+  }
+body {
+    background-color: #25211e;
+    color: #94928e !important;
+}
+h1, h2 {
+    color: #94928e !important;
+    font-weight: 700 !important;
+}
+.md-header {
+    color:#b6b4af !important;
+}
+.md-header__button.md-logo {
+  margin: 0 .4rem 0 .2rem;
+  padding: 0 0 0 .4rem;
+}
+.md-header__button.md-logo img {
+  border-radius: 100%;
+  width: 1.6rem;
+  height: 1.6rem;
+}
+.md-nav--secondary .md-nav__title {
+    background: #25211e !important;
+    box-shadow: 0 0 .4rem .4rem #25211e !important;
+}
+.md-nav__container {
+    background: #25211e !important;
+    box-shadow: 0 0 .4rem .4rem #25211e !important;
+}
+
+.md-source__repository--active .md-source__facts {
+    -webkit-animation: none !important;
+    animation: none important;
+}
+.md-header--shadow {
+    transition: none !important;
+    box-shadow: 0 0 0;
+}
+.md-source__repository--active .md-source__facts li {
+    -webkit-animation: none !important;
+    animation: none important;
+}
+.md-source {
+    color: #94928e !important;
+    transition: none !important;
+}
+.md-tabs__link {
+    color: #94928e !important;
+}
+.md-tabs__link:hover {
+    color: #b6b4af !important;
+}
+.md-tabs__link--active {
+    color: #b6b4af !important;
+    font-weight: 600;
+}
+.md-nav__link {
+    color: #94928e !important;
+}
+.md-nav__link:hover {
+    color: #b6b4af !important;
+}
+.md-nav__link--active {
+    color: #b6b4af !important;
+    font-weight: bold;
+}
+a.md-nav__link--active:before {
+    content: "\00BB";
+    margin-right: 6px;
+}
+
+.md-header__title {
+  margin-left: 0 !important;
+}
+
+.md-footer__inner {
+  display: none !important;
+}
+
+.md-nav__container {
+  padding: 0 .6rem 0.5rem 0.6rem !important;
+}
+.md-nav__title {
+  padding: 0 .6rem 0.5rem 0.6rem !important;
+}
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+    background-color: #25211e;
+    color: #94928e !important;
+}
+.md-search-result__meta {
+    background-color: #35312e;
+    color: #94928e !important;
+}
+
+.md-search-result__list {
+    background-color: #25211e;
+}
+.md-search__icon.md-icon {
+    color: #94928e !important;
+}
+[data-md-toggle="search"]:checked ~ .md-header .md-search__input + .md-search__icon, [data-md-toggle="search"]:checked ~ .md-header .md-search__input::placeholder {
+    color: #94928e !important;
+}
+.md-search-result .md-typeset {
+    color: #94928e !important;
+}
+.md-search-result__icon.md-icon {
+    color: #94928e !important;
+}
+.md-search-result__link:hover {
+    background-color: #35312e;
+}
+.md-search-result__more {
+    display: none;
+}
+.md-search-result__more:hover {
+    background-color: #35312e;
+}
+.md-search-result__more[open] > summary {
+    background-color: #35312e;
+}
+.md-nav__icon {
+    transition: none !important;
+}
+.md-content__inner.md-typeset img {
+    border-radius: 5px;
+    border: 1px solid #35312e;
+    box-shadow: 0 0 1px 1px #16120e;
+}
+.admonition {
+    border-radius: 5px !important;
+    background-color: #35312e !important;
+    border-left-color: #25211e !important;
+    color: #94928e !important;
+}
+.md-tooltip.md-tooltip--active {
+    background-color: #25211e !important;
+}
+.md-tooltip__inner.md-typeset {
+    color: #94928e;
+}
+.md-tooltip__inner.md-typeset a {
+    color: #94928e;
+}
+.md-tooltip__inner.md-typeset a:hover {
+    color: #b6b4af !important;
+}
+.admonition a {
+    color: #94928e;
+    font-weight: bold;
+}

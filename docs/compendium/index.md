@@ -1,0 +1,6 @@
+---
+icon: material/bookshelf
+
+---
+
+# Compendium
