@@ -30,8 +30,10 @@ extra:
 extra_css:
   - static/stylesheets/custom.css
 
+use_directory_urls: false
+
 nav:
-  - WarTales:
+  - Main:
     - "index.md"
     - Gameplay: "gameplay.md"
 
