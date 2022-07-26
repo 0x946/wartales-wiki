@@ -4,7 +4,6 @@ hide:
 ---
 
 # Attributes
-In Wartales, each character has 9 attributes that govern the various abilities and of each companion in and out of combat. Each level provides a character with an Aptitude point which.
 
 ### Strength
 Increases the skill damage based on Strength and Critical Damage 
@@ -32,12 +31,3 @@ Daily food consumption
 
 ### Carrying Capacity
 Increases the troop's total carrying capacity
-
-### Health
-Represents health points and regenerates after each fight. Taking too much damage (end battle with less then 1/2 HP) will cause injuries . 
-
-### Armor
-Protects Health, maintains Guard and must be repaired after each fight. 
-
-### Guard
-Reduces the damage of incoming attacks as long as the unit has Armor. Attacks from behind ignore 50% of this reduction. 
