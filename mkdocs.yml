@@ -7,9 +7,7 @@ theme:
   favicon: static/img/favicon.png
   palette:
     scheme: slate
-  font:
-    text: alagard
-    code: alagard
+  font: false
   features:
     - navigation.tabs
     - navigation.tabs.sticky

@@ -1,4 +1,5 @@
 :root {
+    --md-text-font: "alagard";
 
     /* Primary color shades */
     --md-default-fg-color: #000000 !important;
