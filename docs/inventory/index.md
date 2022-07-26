@@ -1,6 +1,1 @@
----
-icon: material/sack
-
----
-
 # Inventory

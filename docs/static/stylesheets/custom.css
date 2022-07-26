@@ -61,6 +61,8 @@ h1, h2 {
     box-shadow: 0 0 .4rem .4rem #25211e !important;
 }
 
+
+
 .md-source__repository--active .md-source__facts {
     -webkit-animation: none !important;
     animation: none important;
@@ -97,8 +99,9 @@ h1, h2 {
     color: #b6b4af !important;
     font-weight: bold;
 }
+
 a.md-nav__link--active:before {
-    content: "\00BB";
+    content: "\00B7";
     margin-right: 6px;
 }
 
@@ -110,7 +113,7 @@ a.md-nav__link--active:before {
   display: none !important;
 }
 
-.md-nav__container {
+.md-nav__link.md-nav__link--index, .md-nav__link.md-nav__container {
   padding: 0 .6rem 0.5rem 0.6rem !important;
 }
 .md-nav__title {
@@ -181,4 +184,16 @@ a.md-nav__link--active:before {
 .admonition a {
     color: #94928e;
     font-weight: bold;
+    text-decoration: underline;
+}
+.admonition a:hover {
+    color: #b6b4af !important;
+}
+.md-content__inner.md-typeset a {
+    color: #94928e;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.md-content__inner.md-typeset a:hover {
+    color: #b6b4af !important;
 }
