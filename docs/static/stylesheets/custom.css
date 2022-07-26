@@ -28,6 +28,10 @@
     --md-footer-fg-color--light: hsla(0, 0%, 100%, 0.7);
     --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
   }
+@font-face {
+    font-family: 'alagard';
+    src: url('alagard.ttf') format('truetype')
+}
 body {
     background-color: #25211e;
     color: #94928e !important;

@@ -1,5 +1,5 @@
-site_name: WarTales Wiki
-site_description: WarTales Wiki
+site_name: Wartales Wiki
+site_description: Wartales Wiki
 site_author: null
 
 theme:
@@ -7,8 +7,8 @@ theme:
   palette:
     scheme: slate
   font:
-    text: Fira Sans
-    code: Fira Mono
+    text: alagard
+    code: alagard
   features:
     - navigation.tabs
     - navigation.tabs.sticky
