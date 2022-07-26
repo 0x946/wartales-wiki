@@ -6,7 +6,7 @@ title: Main
 </style>
 # Main
 
-![WarTales Banner](static/img/wartales.gif)
+![wartales](static/img/headers/wartales.gif)
 
 <p>Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!</p>
 
