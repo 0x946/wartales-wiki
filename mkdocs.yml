@@ -4,6 +4,7 @@ site_author: null
 
 theme:
   name: material
+  favicon: static/img/favicon.png
   palette:
     scheme: slate
   font:
