@@ -1,4 +1,5 @@
 # Traits
+Traits are permanent buffs or debuffs that modify a companion's [Attributes] in combat and in the world. Multiple traits can be selected at the start of the game and are automatically accumulated over the course of the game through combat interactions and [Confessions].
 
 ## Allergic
 Doubles the effects of a [Sting] injury.

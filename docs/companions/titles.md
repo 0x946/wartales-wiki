@@ -1,4 +1,5 @@
 # Titles
+Titles are given to companions as achievements after performing specific tasks a number of times. Titles do not have any obvious effect on gameplay or companion performance in combat.
 
 ## The Scarred
 10 Injuries suffered.

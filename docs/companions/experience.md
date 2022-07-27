@@ -2,6 +2,7 @@
 
 Experience governs the companion's current level. Experience can be gained from successful [Combat] encounters and [Confessions].
 
+## Leveling Requirements
 | Level | Experience Needed |
 |-------|-------------------|
 | Level 2 | 200 Experience    |

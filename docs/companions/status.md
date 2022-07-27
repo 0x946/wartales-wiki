@@ -1,4 +1,5 @@
 # Status
+Status effects are typically temporary buffs or debuffs that can be applied throughout the course of combat. Typically they are applied via skills and last for a specific number of rounds during combat.
 
 ## Leader
 [Strength], [Dexterity] and [Constitution] increased by 30%.
