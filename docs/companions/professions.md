@@ -1,6 +1,6 @@
 # Professions
 
-Professions allow companions the ability to peform various actions in the world generally surrounding gathering and crafting. Each companion can only have one profession but is able to freely switch between them (with an experience reset penalty).Professions provide Attribute bonuses and allow companions to be assigned to certain [Camping Gear] in the [Camp]. 
+Professions allow companions the ability to peform various actions in the world generally surrounding gathering and crafting. Each companion can only have one profession but is able to freely switch between them (with an experience reset penalty). Professions provide Attribute bonuses and allow companions to be assigned to certain [Camping Gear] in the [Camp]. 
 
 ## Alchemist
 

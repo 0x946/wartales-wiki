@@ -1,5 +1,5 @@
 # Injuries
-There are several injuries that your companions can be affected by. Everytime you got an injury, there are two ways to heal it. You can visit an Apothecary at any major city and pay 20 Krowns for each injury or use an specific medicine. Usually you will get an injury if your Health less than 1/2 at the end of battle. This make them possibility avoidable while healing companions before the end the battle (but you need to have enough valor points). 
+Injuries are companion debuffs that persist outside of individual combat encounters. Most of them can be healed at an Apothecary or by using [Medicine], although some require special medicine to treat.
 
 ## Head Injury 	
 Willpower reduced by half.
