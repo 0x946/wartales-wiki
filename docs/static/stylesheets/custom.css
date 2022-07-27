@@ -217,3 +217,9 @@ a.md-nav__link--active:before {
     border-top: .05rem solid #45413e;
     border-bottom: .05rem solid #25211e;
 }
+hr {
+    margin: 0 !important;
+    border-bottom: 1px solid #25211e !important;
+    border-top: 1px solid #45413e !important;
+
+}
