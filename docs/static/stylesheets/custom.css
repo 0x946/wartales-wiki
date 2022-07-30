@@ -234,9 +234,10 @@ hr {
 }
 .skillbox img {
     margin-top: 0 !important;
-    height: 5.5em;
-    width: 5.5em;
+    height: 3.2em;
+    width: 3.2em;
 }
+
 .skill img {
     border: 0 solid #000 !important;
     box-shadow: 0 0 0 0 !important;
@@ -251,4 +252,17 @@ hr {
     vertical-align: middle;
     width: 20px;
     height: 20px;
+}
+
+
+.knowledgebox h3 {
+    margin: 1em 0 !important;
+}
+.knowledgebox hr {
+    height: 0px;
+}
+.knowledgebox img {
+    margin-top: 0 !important;
+    height: 3.2em;
+    width: 3.2em;
 }
