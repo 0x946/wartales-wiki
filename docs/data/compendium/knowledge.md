@@ -25,6 +25,37 @@
 !!! note ""
 
     <div class="knowledgebox">
+    ![career plans](../../static/img/compendium/knowledge/career_plans.png){align=left}
+    ### Career Plans
+    ---
+    *<p>Allows you to have enhanced control over your Companions' evolution when they level up.</p>*
+    **<p>You can spend [Influence] to add 1+ to an Aptitude when levelling up.</p>** 
+    </div>
+
+!!! note ""
+
+    <div class="knowledgebox">
+    ![restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
+    ### Restoration
+    ---
+    *<p>Your troop improves their armour repairing skills.</p>*
+    **Repair materials restore 5 additional Armour point.**
+    </div>
+
+!!! note ""
+
+    <div class="knowledgebox">
+    <div class="skill">Requires [Restoration](knowledge.md#restoration)</div>
+    ![improved restoration](../../static/img/compendium/knowledge/improved_restoration.png){align=left}
+    ### Improved Restoration
+    ---
+    *<p>Your troop improves their armour repairing skills.</p>*
+    **Repair materials restore 5 additional Armour point.**
+    </div>
+
+!!! note ""
+
+    <div class="knowledgebox">
     ![rationing](../../static/img/compendium/knowledge/rationing.png){align=left}
     ### Rationing
     ---
@@ -34,7 +65,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/endurance_training.png){align=left}
+    ![endurance training](../../static/img/compendium/knowledge/endurance_training.png){align=left}
     ### Endurance Training
     ---
     *<p>The troop is improving its stamina and can move faster.</p>*
@@ -46,7 +77,7 @@
 
     <div class="knowledgebox">
     <div class="skill">Requires [Endurance Training](knowledge.md#endurance_training)</div>
-    ![rationing](../../static/img/compendium/knowledge/endurance_training.png){align=left}
+    ![long distance running](../../static/img/compendium/knowledge/endurance_training.png){align=left}
     ### Long Distance Running
     ---
     *<p>The troop is learning how to use roads and trails for quick travel.</p>*
@@ -56,7 +87,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/frugality.png){align=left}
+    ![frugality](../../static/img/compendium/knowledge/frugality.png){align=left}
     ### Frugality
     ---
     *<p>Each Companion agrees to a cut in their wage for greater good.</p>*
@@ -67,7 +98,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/weighted_training.png){align=left}
+    ![weighted training](../../static/img/compendium/knowledge/weighted_training.png){align=left}
     ### Weighted Training
     ---
     *<p>The troop has trained with weights and can now carry heavy loads over long distance.</p>*
@@ -79,8 +110,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Frugality](knowledge.md#frugality)</div>
-    ![rationing](../../static/img/compendium/knowledge/for_money!.png){align=left}
+    ![for money!](../../static/img/compendium/knowledge/for_money!.png){align=left}
     ### For Money!
     ---
     *<p>In order to find Krowns, the Companion search bodies in the most incongruous places.</p>*
@@ -90,7 +120,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/for_glory!.png){align=left}
+    ![for glory](../../static/img/compendium/knowledge/for_glory!.png){align=left}
     ### For Glory!
     ---
     *<p>The troops tends to boast after beating an opponent.</p>*
@@ -100,7 +130,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/location_markers.png){align=left}
+    ![location markers](../../static/img/compendium/knowledge/location_markers.png){align=left}
     ### Location Markers
     ---
     *<p>Your troop can add objective markers to the map.</p>*
@@ -110,7 +140,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/feat_makers.png){align=left}
+    ![feat makers](../../static/img/compendium/knowledge/feat_makers.png){align=left}
     ### Feat Makers
     ---
     *<p>Your Companions are ready to fight and shine with glory on the battlefield.</p>*
@@ -120,7 +150,8 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/bravest_of_the_braves.png){align=left}
+    <div class="skill">Requires [Feat Makers](knowledge.md#feat_makers)</div>
+    ![bravest of the braves](../../static/img/compendium/knowledge/bravest_of_the_braves.png){align=left}
     ### Bravest of the Braves
     ---
     *<p>Your troop is highly trained and ready to do anything to win. With class.</p>*
@@ -139,7 +170,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/smooth_talk.png){align=left}
+    ![smooth talk](../../static/img/compendium/knowledge/smooth_talk.png){align=left}
     ### Smooth Talk
     ---
     *<p>Your Companions become great spokesperson who can talk anyone into joining their ranks.</p>*
@@ -159,7 +190,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/cannibalism.png){align=left}
+    ![cannibalism](../../static/img/compendium/knowledge/cannibalism.png){align=left}
     ### Cannibalism
     ---
     *<p>Your troop is prepared to do anything to survive, including eating their own.</p>*
@@ -196,7 +227,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ### Bleeding Mastery
+    ### Burning Mastery
     ---
     *<p>Your troop is developing a strong taste for seared flesh.</p>*
     **Increases [Burning] effectiveness (+5% of the target's HP) .**
@@ -205,7 +236,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    ![rationing](../../static/img/compendium/knowledge/cannibalism.png){align=left}
+    ![artful dodgers](../../static/img/compendium/knowledge/cannibalism.png){align=left}
     ### Artful Dodgers
     ---
     *<p>Your Companions are honing their criminal skills and learning to master the art of stealth.</p>*
@@ -216,7 +247,7 @@
 
     <div class="knowledgebox">
     <div class="skill">Requires [Recipe: Tiltren Restoration]</div>
-    ![rationing](../../static/img/compendium/knowledge/restoration.png){align=left}
+    ![tiltren restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Tiltren Restoration
     ---
     *<p>Following Tiltren methods, your troop optimises the use of repair materials.</p>*
@@ -226,8 +257,8 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Tiltren Restoration]</div>
-    ![rationing](../../static/img/compendium/knowledge/restoration.png){align=left}
+    <div class="skill">Requires [Recipe: Gosenberg Restoration]</div>
+    ![gosenberg restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Gosenberg Restoration
     ---
     *<p>Following Gosenberg methods, your troop optimises the use of repair materials.</p>*
@@ -237,8 +268,8 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Tiltren Restoration]</div>
-    ![rationing](../../static/img/compendium/knowledge/restoration.png){align=left}
+    <div class="skill">Requires [Recipe: Edoranian Restoration]</div>
+    ![edoranian restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Edoranian Restoration
     ---
     *<p>Following Edoranian methods, your troop optimises the use of repair materials.</p>*
@@ -248,8 +279,8 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Tiltren Restoration]</div>
-    ![rationing](../../static/img/compendium/knowledge/restoration.png){align=left}
+    <div class="skill">Requires [Recipe: Harag Restoration]</div>
+    ![harag restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Harag Restoration
     ---
     *<p>Following Harag methods, your troop optimises the use of repair materials.</p>*
