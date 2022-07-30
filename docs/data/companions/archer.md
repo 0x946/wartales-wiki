@@ -4,15 +4,15 @@ Archers fight from a long distance and deal high amounts of damage.
 
 * Class Weapon: [Bow](../inventory/bows.md)
 * Class Armor: [Light Armor](../inventory/light_armor.md)
-* Primary Attribute: [Dexterity](../inventory/bows.md)
+* Primary Attribute: [Dexterity](attributes.md#dexterity)
 
 ## Specialization
 At each milestone, one of three specializations paths can chosen.
 
 ## Level 2
-{% include-markdown "../../partials/class_skills/archer/valorous_audacity.md" %}
-{% include-markdown "../../partials/class_skills/archer/valorous_victory.md" %}
-{% include-markdown "../../partials/class_skills/archer/valorous_support.md" %}
+{% include-markdown "../../partials/class_skills/shared/valorous_audacity.md" %}
+{% include-markdown "../../partials/class_skills/shared/valorous_victory.md" %}
+{% include-markdown "../../partials/class_skills/shared/valorous_support.md" %}
 
 ## Level 3
 {% include-markdown "../../partials/class_skills/archer/recoil_shot.md" %}

@@ -12,6 +12,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.expand
   logo: static/img/logo.jpg
 
 markdown_extensions:
