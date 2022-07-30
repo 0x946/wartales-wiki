@@ -5,6 +5,7 @@ phases:
       python: 3.8
     commands:
       - pip install git+https://$GH_TOKEN@github.com/squidfunk/mkdocs-material-insiders.git
+      - pip install mkdocs-include-markdown-plugin
   build:
     commands:
       - mkdocs build
