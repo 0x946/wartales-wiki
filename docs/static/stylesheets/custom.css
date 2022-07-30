@@ -221,5 +221,34 @@ hr {
     margin: 0 !important;
     border-bottom: 1px solid #25211e !important;
     border-top: 1px solid #45413e !important;
+}
+.skill {
+    float: right;
+}
 
+.skillbox h3 {
+    margin: 1em 0 !important;
+}
+.skillbox hr {
+    height: 0px;
+}
+.skillbox img {
+    margin-top: 0 !important;
+    height: 5.5em;
+    width: 5.5em;
+}
+.skill img {
+    border: 0 solid #000 !important;
+    box-shadow: 0 0 0 0 !important;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+}
+
+.skill-mastery img {
+    border: 0 solid #000 !important;
+    box-shadow: 0 0 0 0 !important;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
 }
