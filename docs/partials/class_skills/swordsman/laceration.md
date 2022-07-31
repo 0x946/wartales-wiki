@@ -2,7 +2,7 @@
 
     <div class="skillbox">
     ![skill](../../../static/img/skills/laceration.png){align=left}
-    ### Laceration <div class="skill">![valour point](../../../static/img/valour_point.png)</div>
+    ### Laceration <div class="skill">![valour point](../../../static/img/valour_point.png)![valour point](../../../static/img/valour_point.png)</div>
     <div class="skill">6m area</div>
     <p>Level 2 Swordsman &middot;> Swordmaster &middot; [Medium Armor](../../../data/inventory/medium_armor.md)</p>
     ---
