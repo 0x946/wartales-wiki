@@ -8,4 +8,5 @@
     ---
 
     As long as a Bonus is active on this unit, their attacks apply [Weakening] for 1 round.
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; ?</p> 
     </div>

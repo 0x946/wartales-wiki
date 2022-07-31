@@ -36,6 +36,9 @@ Damage taken dealt by the engaged opponent reduced by 50%.
 ### Inspiration 
 [Movement] doubled.
 
+### Relentless
+After attacking, this unit executes an [attack of opportunity]. Removed if no longer in combat.
+
 ### Verminator
 Damage against [Plague-Infested Outgrowths] of 50%. (Increased by?)
 

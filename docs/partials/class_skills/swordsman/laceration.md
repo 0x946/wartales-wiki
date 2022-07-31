@@ -7,5 +7,5 @@
     <p>Level 2 Swordsman &middot;> Swordmaster &middot; [Medium Armor](../../../data/inventory/medium_armor.md)</p>
     ---
     Deals strength damage to all the units in the area 2 times. Usable after 2 attacks.
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p> 
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; Usable after 1 attack.</p> 
     </div>

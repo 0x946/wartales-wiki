@@ -8,4 +8,6 @@
     ---
 
     Ranged attacks apply [Destabilization] for 1 round.
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; 40% Critical Hit chance.</p> 
+
     </div>

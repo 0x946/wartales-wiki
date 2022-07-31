@@ -8,6 +8,6 @@
     <p>Level 3 Ranger &middot;> Cutthroat &middot; [Light Armor](../../../data/inventory/light_armor.md)</p>
     ---
     <p>Deals 15-20 damage to the target.</p>
-    <p>**[Ambush](status.md#ambush)**: Performs 2 additional attacks.</p> 
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: **[Fatal Blow]**: This skill can be reused in this round.</p> 
+    <p>**[Ambush](../../../data/companions/status.md#ambush)**: Performs 2 additional attacks.</p> 
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; **[Fatal Blow](../../../data/companions/status.md#fatal_blow)**: This skill can be reused in this round.</p> 
     </div>

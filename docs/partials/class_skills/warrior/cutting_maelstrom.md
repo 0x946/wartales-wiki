@@ -9,5 +9,5 @@
     ---
     
     Deals strength damage to all the units in the target area. Attacks 1 time for each unit in the target area.
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p> 
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; [**Fatal blow**]: Attacks again.</p> 
     </div>

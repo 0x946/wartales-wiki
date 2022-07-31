@@ -8,4 +8,5 @@
     ---
 
     The first skill used in each fight deals 100% extra damage.
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery]: The first skill used in each fight deals 150% extra damage.</p> 
     </div>

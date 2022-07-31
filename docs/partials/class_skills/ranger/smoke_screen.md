@@ -8,5 +8,5 @@
     <p>Level 3 Ranger &middot;> Strategist &middot; [Light Armor](../../../data/inventory/light_armor.md)</p>
     ---    
     <p>Forces enemies engaged in the area to disengage. They incur an [attack of opportunity] from their opponent.</p>
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p> 
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; Enemies that are not engaged in combat are Knocked Back by 2m.</p> 
     </div>

@@ -8,7 +8,7 @@
     <p>Level 2 Warrior &middot;> Berserker &middot; [Medium Armor](../../../data/inventory/medium_armor.md)</p>
     ---
     
-    Deals 3 times more strength damage to the target.
+    Deals 3 times more 30-40% strength damage to the target.
     <p>Critical Hit: Gains [Fury].</p>
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p> 
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; Ignores [Guard].</p> 
     </div>

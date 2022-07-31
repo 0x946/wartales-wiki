@@ -13,12 +13,14 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.expand
+    - content.tooltips
   logo: static/img/logo.jpg
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji

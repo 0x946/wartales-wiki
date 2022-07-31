@@ -7,5 +7,6 @@
     <p>Level 5 &middot; Swordsman</p>
     ---
 
-    Each time this unit engages, they gain [Deflection].
+    Each time this unit engages, they gain [Deflection](../../../data/companions/status.md#deflection).
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; Every time they disengage, they gain [Fury](../../../data/companions/status.md#fury).</p> 
     </div>

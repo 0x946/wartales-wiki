@@ -8,5 +8,5 @@
     <p>Level 3 &middot; Spearman &middot;> Herald &middot; [Medium Armor](../../../data/inventory/medium_armor.md)</p>
     ---
     <p>Applies [Fury] to all allies in the area.</p> 
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p> 
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; Increases area to 6m.</p> 
     </div>

@@ -7,6 +7,6 @@
     <p>Level 2 Swordsman &middot;> Fighter &middot; [Heavy Armor](../../../data/inventory/heavy_armor.md)</p>
     ---
     
-    Deals strength damage to the target and applies [Destabilization] for 2 rounds.
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p> 
+    Deals strength damage to the target and applies [Destabilization](../../../data/companions/status.md#destabilization) for 2 rounds.
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; 100% Critical Hit chance against enemies without [Guard].</p> 
     </div>

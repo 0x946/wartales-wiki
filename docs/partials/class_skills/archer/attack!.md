@@ -7,5 +7,8 @@
     <p>Level 3 Archer &middot;> Beastmaster &middot; [Light Armor](../../../data/inventory/light_armor.md)</p>
     ---
     <p>All allied animals next to the target attack them with an [attack of opportunity].</p>
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Skill Mastery]: ?</p>
+
+    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot;  All allied animals next to the target gain [Fury] and attack them with an [attack of opportunity].
+    </p>
     </div>
+
