@@ -266,6 +266,17 @@ hr {
     height: 3.2em;
     width: 3.2em;
 }
+.weaponskillbox img {
+    margin-top: 0 !important;
+    height: 3.2em;
+    width: 3.2em;
+}
+.weaponskillbox h3 {
+    margin: 1em 0 !important;
+}
+.weaponskillbox hr {
+    height: 0px;
+}
 .md-tooltip.md-tooltip--inline.md-tooltip--active {
     font-size: 16px !important;
 }

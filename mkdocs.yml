@@ -36,6 +36,7 @@ use_directory_urls: false
 
 plugins:
   - include-markdown
+  - search
 
 nav:
   - Main:
