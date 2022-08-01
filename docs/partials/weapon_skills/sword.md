@@ -28,8 +28,8 @@
     <div class="skill">2m area - Strength</div>
     ### Hallowed Strike
     ---
-    <p>Loses 40% strength Health to deal 120% strength damage to the units in the area and ignores their [Guard].</p>
-    <p>Weapons: [Fanatic's Great Falchion]</p>
+    <p>Deals 80% strength damage to all the units in the area. If this attack hits several units, creates a [Fire] under each of them.</p>
+    <p>Weapons: [Ulfberht of the Eye]</p>
 
     </div>
 
