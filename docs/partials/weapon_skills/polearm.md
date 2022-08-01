@@ -32,3 +32,15 @@
     <p>Weapons: [Reinforced Spear]</p>
 
     </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/tendon_rupture.png){align=left}
+    <div class="skill">Melee - Range 3m - Strength</div>
+    ### Tendon Rupture
+    ---
+    <p>Deals 65%-85% strength damage to the target and applies [Slowdown] for 1 round. If already affected by [Slowdown], the target suffers [Bleeding].</p>
+    <p>Weapons: [Deserter's Lance]</p>
+
+    </div>

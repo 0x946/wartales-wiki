@@ -12,7 +12,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/forceful_interrogation.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Forceful Interrogation
     ---
@@ -24,7 +24,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/heavy_strike.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Heavy Strike
     ---
@@ -84,7 +84,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/splat!.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### SPLAT!
     ---

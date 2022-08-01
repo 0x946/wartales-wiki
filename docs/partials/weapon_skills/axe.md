@@ -12,7 +12,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/bravado.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Bravado
     ---
@@ -38,10 +38,21 @@
     <div class="weaponskillbox">
     ![skill](../../../static/img/inventory/manual.png){align=left}
     <div class="skill">2m area - Strength</div>
-    ### Main
+    ### Maim
     ---
     <p>Deals 30%-50% damage to the target. Ambush: If the target is engaged in combat with an ally, this ally executed an attack of opportunity.</p>
     <p>Weapons: [Iron Battle Axe]</p>
 
     </div>
 
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/arm_of_justice.png){align=left}
+    <div class="skill">Melee - Range 2m - Strength</div>
+    ### Arm of Justice
+    ---
+    <p>Deals 30%-50% damage to the target and lures them into close range to engage them. If the target is engaged in combat with the ability, they execute an attack of opportunity.</p>
+    <p>Weapons: [?]</p>
+
+    </div>

@@ -44,3 +44,27 @@
     <p>Weapons: [Hunter's Bow]</p>
 
     </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/flaming_arrow.png){align=left}
+    <div class="skill">9m shot - Dexterity</div>
+    ### Flaming Arrow
+    ---
+    <p>Deals 50%-90% dexterity damage to the target and knocks them back by 2m.</p>
+    <p>Weapons: [Stylish Bow]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/wild_shot.png){align=left}
+    <div class="skill">9m shot - Dexterity</div>
+    ### Wild Shot
+    ---
+    <p>Deals 1 times the amount of 45%-85% damage to the target. Guarantees a critical hit if the target and an allied animal are engaged in combat.</p>
+    <p>Weapons: [Tracker's Bow]</p>
+
+    </div>
