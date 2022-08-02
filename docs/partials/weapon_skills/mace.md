@@ -72,7 +72,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/armour_crushing.png){align=left}
     <div class="skill">2m area - Strength</div>
     ### Armour Crushing
     ---

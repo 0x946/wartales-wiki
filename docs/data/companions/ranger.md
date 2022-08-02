@@ -27,5 +27,8 @@ At each milestone, one of three specializations paths can chosen.
 {% include-markdown "../../partials/class_skills/ranger/low_blow.md" %}
 {% include-markdown "../../partials/class_skills/ranger/cold_blooded.md" %}
 
-## Weapon Skills
+## Dagger Weapon Skills
 {% include-markdown "../../partials/weapon_skills/dagger.md" %}
+
+## Off-Hand Weapon Skills
+{% include-markdown "../../partials/weapon_skills/off_hand.md" %}

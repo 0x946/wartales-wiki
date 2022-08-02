@@ -1,7 +1,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/slice.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Slice
     ---

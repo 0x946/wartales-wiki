@@ -1,7 +1,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/stab.png){align=left}
     <div class="skill">Melee - Dexterity</div>
     ### Stab
     ---
@@ -36,7 +36,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/attack_order.png){align=left}
     <div class="skill">Melee - Dexterity</div>
     ### Attack Order
     ---
@@ -72,7 +72,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/rain_of_daggers.png){align=left}
     <div class="skill">4m area - Dexterity</div>
     ### Rain of Daggers
     ---

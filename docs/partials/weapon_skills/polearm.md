@@ -12,7 +12,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/functional_duo.png){align=left}
     <div class="skill">Melee - Range 3m - Strength</div>
     ### Functional Duo
     ---
@@ -24,7 +24,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/stunning_assault.png){align=left}
     <div class="skill">Melee - Range 3m - Strength</div>
     ### Stunning Assault
     ---

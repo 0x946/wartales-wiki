@@ -15,6 +15,6 @@
 
     <p class="skill-mastery">
         ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Skill Mastery]: ?
+        [Mastery] &middot; If the unit is already disarmed, also applies [Vulnerability](../../../data/companions/status.md#vulnerability).
     </p> 
     </div>

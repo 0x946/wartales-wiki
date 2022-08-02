@@ -12,7 +12,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/volley_of_arrows.png){align=left}
     <div class="skill">9m shot - Dexterity</div>
     ### Volley of Arrows
     ---
