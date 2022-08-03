@@ -12,6 +12,18 @@
 !!! note ""
 
     <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/wild_marking.png){align=left}
+    <div class="skill">4m shot - Strength</div>
+    ### Wild Marking
+    ---
+    <p>Deals 60%-120% strength damage to the target and applies [Marked for Death].</p>
+    <p>Weapons: [Tracker's Axe]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
     ![skill](../../../static/img/weapon_skills/bravado.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Bravado
@@ -36,7 +48,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/maim.png){align=left}
     <div class="skill">2m area - Strength</div>
     ### Maim
     ---
@@ -54,5 +66,29 @@
     ---
     <p>Deals 30%-50% damage to the target and lures them into close range to engage them. If the target is engaged in combat with the ability, they execute an attack of opportunity.</p>
     <p>Weapons: [?]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/obliteration.png){align=left}
+    <div class="skill">2m area - Strength</div>
+    ### Obliteration
+    ---
+    <p>Deals 75% strength damage to all units in the area. A guaranteed critical hit against poisoned units. **Critical Hit**: Knocks units back by 1m.</p>
+    <p>Weapons: [Great Pig Iron]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/logging.png){align=left}
+    <div class="skill">2m area - Strength</div>
+    ### Logging
+    ---
+    <p>Deals 55% strength damage to the units in the area. Is cast again for every affected target that is bleeding.</p>
+    <p>Weapons: [Great Pig Iron]</p>
 
     </div>

@@ -12,7 +12,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/slaughter.png){align=left}
     <div class="skill">Melee - Dexterity</div>
     ### Slaughter
     ---
@@ -24,7 +24,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/poisoning.png){align=left}
     <div class="skill">Melee - Dexterity</div>
     ### Poisoning
     ---
@@ -60,7 +60,19 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/devious_whirlwind.png){align=left}
+    <div class="skill">2m area - Dexterity</div>
+    ### Devious Whirlwind
+    ---
+    <p>Deals 70% dexterity damage to all the units in the area. If this attack hits several units, creates a [Cloud of Poison] under each of them.</p>
+    <p>Weapons: [Ringleader's Dagger]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/toxic_blade.png){align=left}
     <div class="skill">Melee - Dexterity</div>
     ### Toxic Blade
     ---

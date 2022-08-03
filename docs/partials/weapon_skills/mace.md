@@ -1,11 +1,11 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/pound.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Pound
     ---
-    <p>"Deals 60%-80% (strength) damage to the target. Damage is increased by 50% if target still has [Armor]."</p>
+    <p>Deals 60%-80% (strength) damage to the target. Damage is increased by 50% if target still has [Armor].</p>
     <p>Weapons: [Iron Bec de Corbin], [Steel Bec de Corbin]</p>
     </div>
 
@@ -36,7 +36,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/pernicious_engagement.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Pernicious Engagement
     ---
@@ -48,24 +48,36 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/ram.png){align=left}
     <div class="skill">2m area - Strength</div>
     ### Ram
     ---
     <p>Deals 70% strength damage to all units in the area. Damage is increased by 50% against units that still have [Armor].</p>
-    <p>Weapons: [Iron Two-Handed Hammer]</p>
+    <p>Weapons: [Iron Two-Handed Hammer], [Rusty Two-Handed Hammer]</p>
 
     </div>
 
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/lucillas_revenge.png){align=left}
     <div class="skill">3m area - Strength</div>
     ### Lucilla's Revenge
     ---
     <p>Deals 150% strength damage to all units in the area and knocks them back by 6m at the start of the next turn.</p>
     <p>Weapons: [Lucilla]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/massacre.png){align=left}
+    <div class="skill">2m area - Strength</div>
+    ### Massacre
+    ---
+    <p>Deals 70% strength damage to all the units in the area. Damage increased by 50% if this unit is engaged in combat.</p>
+    <p>Weapons: [Brotherhood Two-Handed Mace]</p>
 
     </div>
 

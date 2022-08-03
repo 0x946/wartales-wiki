@@ -1,12 +1,12 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/shoot.png){align=left}
     <div class="skill">9m shot - Dexterity</div>
     ### Shoot
     ---
     <p>Deals 60%-100% [Dexterity] damage to the target.</p>
-    <p>Weapons: [Longbow]</p>
+    <p>Weapons: [Longbow], [Improvised Bow]</p>
     </div>
 
 !!! note ""
@@ -24,7 +24,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/fatal_shot.png){align=left}
     <div class="skill">9m shot - Dexterity</div>
     ### Fatal Shot
     ---
@@ -36,7 +36,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/vicious_shot.png){align=left}
     <div class="skill">9m shot - Dexterity</div>
     ### Vicious Shot
     ---

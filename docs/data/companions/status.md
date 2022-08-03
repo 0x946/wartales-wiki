@@ -1,5 +1,5 @@
 # Status
-Status effects are typically temporary buffs or debuffs that can be applied throughout the course of combat. Typically they are applied via skills and last for a specific number of rounds during combat.
+Status effects are typically temporary buffs or debuffs that can be applied throughout the course of combat. Typically they are applied via skills and last for a specific number of rounds during combat. Some statuses last in the world for a certain number of rests.
 
 ## Buffs
 
@@ -48,6 +48,9 @@ Removed after battling [Rat Infestation].
 
 ### Targeting
 
+### Vigilant
+Enemy aggression range reduced in the world. Lasts for 2 [Rests].
+
 ## De-buffs
 
 ### Bleeding
@@ -66,6 +69,9 @@ Target loses 5% of their maximum [Health] at the end of their turn. Stackable.
 
 ### Weakening
 Damage reduced by 50%.
+
+### Marked for Death
+Every time this unit is attack by an animal, the damage increases.
 
 ### Fragility
 Damage taken increased by 30%.
