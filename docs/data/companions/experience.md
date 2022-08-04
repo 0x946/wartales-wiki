@@ -1,6 +1,6 @@
 # Experience
 
-Experience governs the companion's current level. Experience can be gained from successful [Combat] encounters and [Confessions].
+Experience governs the companion's current level. Experience can be gained from successful [Combat] encounters, [Confessions], and the [Training Dummy].
 
 ## Leveling
 
