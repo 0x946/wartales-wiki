@@ -61,7 +61,7 @@
 
     <div class="weaponskillbox">
     ![skill](../../../static/img/weapon_skills/interception.png){align=left}
-    <div class="skill">?</div>
+    <div class="skill">8m move - Strength</div>
     ### Interception
     ---
     <p>Disengages and charges in a straight line. Deals 65% strength damage to all units in their path and applies Slowdown for 1 round.</p>
