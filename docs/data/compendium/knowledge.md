@@ -161,11 +161,25 @@
 !!! note ""
 
     <div class="knowledgebox">
+    ![offer hunters](../../static/img/compendium/knowledge/offer_hunters.png){align=left}
     ### Offer Hunters
     ---
     *<p>Your Companions are bribing the Bounty Emissary to get more contracts.</p>*
     **Increases by 1 the number of Contracts displayed on the List of Bounties.**
     </div>
+
+
+!!! note ""
+
+    <div class="knowledgebox">
+    ![bountiful bounties](../../static/img/compendium/knowledge/bountiful_bounties.png){align=left}
+    <div class="skill">Requires [Offer Hunters]</div>
+    ### Bountiful Bounties
+    ---
+    *<p>Your troop is improving their organizational skills and seeks to accumulate more bounties.</p>*
+    **Increases by 1 the number of Contracts you can accept in the List of Bounties.**
+    </div>
+
 
 !!! note ""
 
@@ -180,6 +194,8 @@
 !!! note ""
 
     <div class="knowledgebox">
+    ![fast training](../../static/img/compendium/knowledge/fast_training.png){align=left}
+    <div class="skill">Requires [Smooth Talk]</div>
     ### Fast Training
     ---
     *<p>Your troop knows how to welcome new recruits with care and attention.</p>*
@@ -200,6 +216,8 @@
 !!! note ""
 
     <div class="knowledgebox">
+    ![miscellaneous tanning](../../static/img/compendium/knowledge/miscellaneous_tanning.png){align=left}
+    <div class="skill">Requires [Cannibalism]</div>
     ### Miscellaneous Tanning
     ---
     *<p>Your Companions no longer have any qualms about treating a human like an animal.</p>*
@@ -209,6 +227,8 @@
 !!! note ""
 
     <div class="knowledgebox">
+    ![poison mastery](../../static/img/compendium/knowledge/poison_mastery.png){align=left}
+    <div class="skill">Requires [Poison Vial]</div>
     ### Poison Mastery
     ---
     *<p>Your Companions are learning how to use toxic plants and infectious reagents to cause the most painful death.</p>*
@@ -218,6 +238,7 @@
 !!! note ""
 
     <div class="knowledgebox">
+    ![bleeding mastery](../../static/img/compendium/knowledge/bleed_mastery.png){align=left}
     ### Bleeding Mastery
     ---
     *<p>Your Companions are learning the delicate art of butchery on the battlefield.</p>*
@@ -246,7 +267,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Tiltren Restoration]</div>
+    <div class="skill">Requires [Tiltren Restoration]</div>
     ![tiltren restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Tiltren Restoration
     ---
@@ -257,7 +278,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Gosenberg Restoration]</div>
+    <div class="skill">Requires [Gosenberg Restoration]</div>
     ![gosenberg restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Gosenberg Restoration
     ---
@@ -268,7 +289,7 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Edoranian Restoration]</div>
+    <div class="skill">Requires [Edoranian Restoration]</div>
     ![edoranian restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Edoranian Restoration
     ---
@@ -279,10 +300,20 @@
 !!! note ""
 
     <div class="knowledgebox">
-    <div class="skill">Requires [Recipe: Harag Restoration]</div>
+    <div class="skill">Requires [Harag Restoration]</div>
     ![harag restoration](../../static/img/compendium/knowledge/restoration.png){align=left}
     ### Harag Restoration
     ---
     *<p>Following Harag methods, your troop optimises the use of repair materials.</p>*
     **Repair materials restore 5 additional Armour point.**
+    </div>
+
+!!! note ""
+
+    <div class="knowledgebox">
+    <div class="skill">Requires [Whip]</div>
+    ![make an example of them](../../static/img/compendium/knowledge/make_an_example_of_them!.png){align=left}
+    ### Make an Example of them!
+    ---
+    *<p>Your troop fears being whipped by too strong a hand.</p>*
     </div>

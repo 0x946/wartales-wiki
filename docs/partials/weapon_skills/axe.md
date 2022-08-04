@@ -36,7 +36,7 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/slice_and_dice.png){align=left}
     <div class="skill">3m area - Strength</div>
     ### Slice and Dice
     ---
@@ -65,7 +65,7 @@
     ### Arm of Justice
     ---
     <p>Deals 30%-50% damage to the target and lures them into close range to engage them. If the target is engaged in combat with the ability, they execute an attack of opportunity.</p>
-    <p>Weapons: [?]</p>
+    <p>Weapons: [Inquisition Great Axe]</p>
 
     </div>
 
@@ -89,6 +89,6 @@
     ### Logging
     ---
     <p>Deals 55% strength damage to the units in the area. Is cast again for every affected target that is bleeding.</p>
-    <p>Weapons: [Great Pig Iron]</p>
+    <p>Weapons: [Tracker's Great Axe]</p>
 
     </div>

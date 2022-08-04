@@ -12,23 +12,24 @@
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/weapon_skills/cleave.png){align=left}
-    <div class="skill">Melee - Strength</div>
-    ### Cleave
-    ---
-    <p>Deals 90% damage to all units in the area.</p>
-    <p>Weapons: [Old Longsword]</p>
-    </div>
-
-!!! note ""
-
-    <div class="weaponskillbox">
     ![skill](../../../static/img/weapon_skills/team_strike.png){align=left}
     <div class="skill">Melee - Strength</div>
     ### Team Strike
     ---
     <p>Deals 70%-90% strength damage to the target. Damage increased by 50% for each adjacent ally.</p>
     <p>Weapons: [Brotherhood Ulfberht]</p>
+
+    </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/holding_the_line.png){align=left}
+    <div class="skill">Melee - Strength</div>
+    ### Holding the Line
+    ---
+    <p>Deals 80%-100% strength damage to the target and knocks them back by 1m.</p>
+    <p>Weapons: [Falchion]</p>
 
     </div>
 
@@ -44,11 +45,22 @@
 
     </div>
 
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill](../../../static/img/weapon_skills/cleave.png){align=left}
+    <div class="skill">Melee - Strength</div>
+    ### Cleave
+    ---
+    <p>Deals 90% damage to all units in the area.</p>
+    <p>Weapons: [Old Longsword]</p>
+    </div>
+
 
 !!! note ""
 
     <div class="weaponskillbox">
-    ![skill](../../../static/img/inventory/manual.png){align=left}
+    ![skill](../../../static/img/weapon_skills/interception.png){align=left}
     <div class="skill">?</div>
     ### Interception
     ---
