@@ -1,9 +1,9 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/last_push.png){align=left}
+    ![skill][last_push.png]
     
-    <div class="skill">![valour point](../../../static/img/valour_point.png)</div>
+    <div class="skill">![valour point][valour_point.png]</div>
     
     ### Last Push 
     
@@ -14,7 +14,7 @@
     Applies to this unit and the targetted ally as many [Rage] as they have Debuffs.
 
     <p class="skill-mastery">
-        ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Skill Mastery]: ?
+        ![skill mastery][skill_mastery.png] 
+        [Mastery] &middot;  ?
     </p> 
     </div>

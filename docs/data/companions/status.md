@@ -44,8 +44,6 @@ Damage against [Plague-Infested Outgrowths] of 50%. (Increased by?)
 
 Removed after battling [Rat Infestation].
 
-### Supported
-
 ### Targeting
 
 ### Vigilant
@@ -92,3 +90,5 @@ Damage taken increased by 20%.
 ### Pyrophobia
 
 ### Vulnerability
+
+{% include-markdown "../links.md" %}

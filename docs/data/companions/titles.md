@@ -39,3 +39,5 @@ Titles are given to companions as achievements after performing specific actions
 
 ## The Friend of Beasts 	
 15 Nights spent next to an animal.
+
+{% include-markdown "../links.md" %}

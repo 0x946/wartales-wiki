@@ -1,7 +1,7 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/preparedness.png){align=left}
+    ![skill][preparedness.png]
     ### Preparedness
     <div class="skill">Passive</div>
     <p>Level 8 &middot; Spearman</p>

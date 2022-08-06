@@ -1,9 +1,9 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/challenging_shout.png){align=left}
+    ![skill][challenging_shout.png]
     
-    <div class="skill">![valour point](../../../static/img/valour_point.png)</div>
+    <div class="skill">![valour point][valour_point.png]</div>
     
     ### Challenging Shout 
     
@@ -14,7 +14,7 @@
     Draws within melee range all the enemies in the area. Applies [Fragility] for 1 round to the enemies disengaged by this.
 
     <p class="skill-mastery">
-        ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Skill Mastery]: ?
+        ![skill mastery][skill_mastery.png] 
+        [Mastery] &middot;  ?
     </p> 
     </div>

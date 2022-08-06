@@ -17,3 +17,4 @@ Leveling up provides a companion with one aptitude point for increasing [Attribu
 | Level 8 | 4,760 Experience  |
 | Level 9 | 8,040 Experience  |
 
+{% include-markdown "../links.md" %}

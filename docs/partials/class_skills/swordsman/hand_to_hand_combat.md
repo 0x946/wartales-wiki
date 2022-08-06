@@ -1,9 +1,9 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/hand_to_hand_combat.png){align=left}
+    ![skill][hand_to_hand_combat.png]
     
-    <div class="skill">![valour point](../../../static/img/valour_point.png)</div>
+    <div class="skill">![valour point][valour_point.png]</div>
     
     ### Hand-to-Hand Combat 
     
@@ -14,7 +14,7 @@
     Applies [Disarm] to the target for 1 round.
 
     <p class="skill-mastery">
-        ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Mastery] &middot; If the unit is already disarmed, also applies [Vulnerability](../../../data/companions/status.md#vulnerability).
+        ![skill mastery][skill_mastery.png] 
+        [Mastery] &middot; If the unit is already disarmed, also applies [Vulnerability].
     </p> 
     </div>

@@ -2,7 +2,7 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/valorous_audacity.png){align=left}
+    ![skill][valorous_audacity.png]
     ### Valorous Audacity
     <div class="skill">Passive</div>
     <p>Level 2 Archer, Ranger, Spearman</p> 

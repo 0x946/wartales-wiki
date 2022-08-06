@@ -1,12 +1,12 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/counter_attack.png){align=left}
+    ![skill][counter_attack.png]
     ### Counter-Attack
     <div class="skill">Passive</div>
     <p>Level 5 &middot; Swordsman</p>
     ---
 
-    Each time this unit engages, they gain [Riposte](../../../data/companions/status.md#riposte).
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot; Every time they disengage, they gain [Inspiration](../../../data/companions/status.md#inspiration) for 1 round.</p> 
+    Each time this unit engages, they gain [Riposte].
+    <p class="skill-mastery">![skill mastery][skill_mastery.png]  [Mastery] &middot; Every time they disengage, they gain [Inspiration] for 1 round.</p> 
     </div>

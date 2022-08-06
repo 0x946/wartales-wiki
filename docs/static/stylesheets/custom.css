@@ -186,7 +186,7 @@ a.md-nav__link--active:before {
 .admonition a {
     color: #94928e;
     font-weight: bold;
-    text-decoration: underline;
+    text-decoration: none;
 }
 .admonition a:hover {
     color: #b6b4af !important;
@@ -194,7 +194,7 @@ a.md-nav__link--active:before {
 .md-content__inner.md-typeset a {
     color: #94928e;
     font-weight: bold;
-    text-decoration: underline;
+    text-decoration: none;
 }
 .md-content__inner.md-typeset a:hover {
     color: #b6b4af !important;
@@ -236,6 +236,8 @@ hr {
     margin-top: 0 !important;
     height: 5.8em;
     width: 5.8em;
+    float: left;
+    margin-right: 1em;
 }
 
 .skill img {
@@ -244,6 +246,7 @@ hr {
     vertical-align: middle;
     width: 20px;
     height: 20px;
+    margin-right: 0px;
 }
 
 .skill-mastery img {
@@ -252,6 +255,7 @@ hr {
     vertical-align: middle;
     width: 1.5em;
     height: 1.5em;
+    margin-right: 0.5em;
 }
 
 
@@ -270,6 +274,8 @@ hr {
     margin-top: 0 !important;
     height: 3.2em;
     width: 3.2em;
+    float: left;
+    margin-right: 1em;
 }
 .weaponskillbox h3 {
     margin: 1em 0 !important;
@@ -282,4 +288,32 @@ hr {
 }
 .note {
     background-color: #000;
+}
+.tallequipmentbox img {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    height: 9.6em;
+    width: 4.8em;
+}
+.tallequipmentbox h3 {
+    margin: 1em 0 !important;
+}
+.tallequipmentbox hr {
+    height: 0px;
+}
+.weaponskill {
+}
+.weaponskill img {
+    height: 2.4em;
+    width: 2.4em;
+    margin: 0 .5em 0 0 !important;
+    vertical-align: middle;
+}
+
+.crafting img {
+    height: 1.8em;
+    width: 1.8em;
+    margin-right: 0.5em !important;
+    border: 0 solid #000 !important;
+    box-shadow: 0 0 0 !important;
 }

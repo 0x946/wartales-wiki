@@ -1,7 +1,7 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/valorous_victory.png){align=left}
+    ![skill][valorous_victory.png]
     ### Valorous Victory
     <div class="skill">Passive</div>
     <p>Level 2 Archer, Ranger, Spearman</p> 

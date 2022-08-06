@@ -39,9 +39,6 @@ plugins:
   - search
 
 nav:
-  - Main:
-    - "index.md"
-    - Gameplay: "data/gameplay.md"
 
   - Companions:
       - "data/companions/index.md"
@@ -60,21 +57,19 @@ nav:
       - Rank: "data/companions/rank.md"
       - Recruitment: "data/companions/recruitment.md"
       - Relationships: "data/companions/relationships.md"
+      - Skills:
+        - Generic Skills: "data/companions/weapon_skills.md"
+        - Weapon Skills: "data/companions/weapon_skills.md"
       - Status: "data/companions/status.md"
       - Titles: "data/companions/titles.md"
       - Traits: "data/companions/traits.md"
 
   - Camp:
     - "data/camp/index.md"
-    - Campfire: "data/camp/campfire.md"
-    - Camp Chest: "data/camp/camp_chest.md"
-    - Cooking Pot: "data/camp/cooking_pot.md"
-    - Lectern: "data/camp/lectern.md"
-    - Meat Drying Rack: "data/camp/meat_drying_rack.md"
-    - Strategy Table: "data/camp/strategy_table.md"
-    - Tent: "data/camp/tent.md"
-    - Watchkeeping Stool: "data/camp/watchkeeping_stool.md"
-    - Workshop: "data/camp/workshop.md"
+    - Camping Gear: "data/camp/camp_chest.md"
+    - Confessions: "data/camp/lectern.md"
+    - Production Camp Equipment: "data/camp/cooking_pot.md"
+    - Resting: "data/camp/campfire.md"
 
   - Inventory:
     - "data/inventory/index.md"

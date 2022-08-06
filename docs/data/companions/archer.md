@@ -2,9 +2,9 @@
 
 Archers fight from a long distance and deal high amounts of damage.
 
-* Class Weapon: [Bow](../inventory/bows.md)
-* Class Armor: [Light Armor](../inventory/light_armor.md)
-* Primary Attribute: [Dexterity](attributes.md#dexterity)
+* Class Weapon: [Bows] &middot; [Bow Weapon Skills]
+* Class Armor: [Light Armor]
+* Primary Attribute: [Dexterity]
 
 ## Specialization
 At each milestone, one of three specializations paths can chosen.
@@ -25,5 +25,5 @@ At each milestone, one of three specializations paths can chosen.
 {% include-markdown "../../partials/class_skills/archer/thrill_of_the_hunt.md" %}
 {% include-markdown "../../partials/class_skills/archer/animal_affinity.md" %}
 
-## Weapon Skills
-{% include-markdown "../../partials/weapon_skills/bow.md" %}
+{% include-markdown "../links.md" %}
+{% include-markdown "../img.md" %}

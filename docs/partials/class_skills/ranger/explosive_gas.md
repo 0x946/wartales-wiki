@@ -1,9 +1,9 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/explosive_gas.png){align=left}
+    ![skill][explosive_gas.png]
     
-    <div class="skill">![valour point](../../../static/img/valour_point.png)![valour point](../../../static/img/valour_point.png)![valour point](../../../static/img/valour_point.png)</div>
+    <div class="skill">![valour point][valour_point.png]![valour point][valour_point.png]![valour point][valour_point.png]</div>
     
     ### Explosive Gas 
 
@@ -14,7 +14,7 @@
     Targets a specific area. Doubles the [Poisons] of all units in the area at the start of the next turn. 
 
     <p class="skill-mastery">
-        ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Skill Mastery]: ?
+        ![skill mastery][skill_mastery.png] 
+        [Mastery] &middot;  ?
     </p> 
     </div>

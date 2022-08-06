@@ -1,9 +1,9 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/low_blow.png){align=left}
+    ![skill][low_blow.png]
     
-    <div class="skill">![valour point](../../../static/img/valour_point.png)</div>
+    <div class="skill">![valour point][valour_point.png]</div>
     
     ### Low blow
 
@@ -14,7 +14,7 @@
     Applies [Blackout] to all enemies in the area.
 
     <p class="skill-mastery">
-        ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Skill Mastery]: ?
+        ![skill mastery][skill_mastery.png] 
+        [Mastery] &middot;  ?
     </p> 
     </div>

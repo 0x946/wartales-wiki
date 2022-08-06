@@ -2,9 +2,9 @@
 
 Swordsmen engage the frontline and excel at both dealing and absorbing damage.
 
-* Class Weapon: [Sword](../inventory/swords.md)
-* Class Armor: [Medium Armor](../inventory/medium_armor.md) or [Heavy Armor](../inventory/heavy_armor.md)
-* Primary Attribute: [Strength](attributes.md#strength)
+* Class Weapon: [Swords] &middot; [Sword Weapon Skills]
+* Class Armor: [Medium Armor] or [Heavy Armor]
+* Primary Attribute: [Strength]
 
 ## Specialization
 At each milestone, one of three specializations paths can be chosen.
@@ -28,5 +28,5 @@ At each milestone, one of three specializations paths can be chosen.
 {% include-markdown "../../partials/class_skills/swordsman/hand_to_hand_combat.md" %}
 {% include-markdown "../../partials/class_skills/swordsman/hardcore_training.md" %}
 
-## Weapon Skills
-{% include-markdown "../../partials/weapon_skills/sword.md" %}
+{% include-markdown "../links.md" %}
+{% include-markdown "../img.md" %}

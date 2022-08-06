@@ -1,3 +1,5 @@
 # Companions
 
-![Wartales Compansions](../../static/img/headers/companions.jpg)
+Hi!
+
+{% include-markdown "../links.md" %}

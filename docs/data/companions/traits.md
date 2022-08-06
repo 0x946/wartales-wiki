@@ -97,7 +97,7 @@ Costs +3 in wages.
 ## Quick
 Movement is increased by 1.
 
-## Raised by Boards
+## Raised by Boars
 Willpower increased by 3 as long as they are next to a boar in the camp.
 
 ## Resilient
@@ -135,3 +135,5 @@ If the group starts a battle with less than 2 Valour Points, grants up to 2.
 
 ## Volunteer
 Wages reduced by half.
+
+{% include-markdown "../links.md" %}

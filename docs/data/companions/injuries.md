@@ -5,10 +5,10 @@ Injuries are companion debuffs that persist outside of individual combat encount
 Willpower reduced by half.
 
 ## Laceration 	
-This unit can no longer deal a [Critical Hit](attributes.md#critical-hit).
+This unit can no longer deal a [Critical Hit].
 
 ## Infection 	
-Can only eat [Meat](../inventory/meat.md), goes mad if famished.
+Can only eat [Meat], goes mad if famished.
 	
 ## Rupturing Ligaments 	
 This unit is slowed to half of their capacity. 	
@@ -27,3 +27,5 @@ Damage taken doubled.
 
 ## Plague-Infected Wound
 This unit must be healed before the next [Rest]. Otherwise, they will be infected.
+
+{% include-markdown "../links.md" %}

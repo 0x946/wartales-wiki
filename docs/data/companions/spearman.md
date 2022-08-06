@@ -2,9 +2,9 @@
 
 Spearmen excel at supporting companions with buffs and attacks of opportunity.
 
-* Class Weapon: [Polearm](../inventory/polearm.md)
-* Class Armor: [Medium Armor](../inventory/medium_armor.md)
-* Primary Attribute: [Strength](attributes.md#dexterity)
+* Class Weapon: [Polearms] &middot; [Polearm Weapon Skills]
+* Class Armor: [Medium Armor]
+* Primary Attribute: [Strength]
 
 ## Specialization
 At each milestone, one of three specializations paths can chosen.
@@ -28,5 +28,5 @@ At each milestone, one of three specializations paths can chosen.
 {% include-markdown "../../partials/class_skills/spearman/harnessing_strength.md" %}
 {% include-markdown "../../partials/class_skills/spearman/last_push.md" %}
 
-## Weapon Skills
-{% include-markdown "../../partials/weapon_skills/polearm.md" %}
+{% include-markdown "../links.md" %}
+{% include-markdown "../img.md" %}

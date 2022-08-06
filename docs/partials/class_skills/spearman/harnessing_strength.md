@@ -1,8 +1,8 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/harnessing_strength.png){align=left}
-    ### Harnessing Strength
+    ![skill][harnessing_strength.png]
+    ### Harnessing [Strength]
     <div class="skill">Passive</div>
     <p>Level 8 &middot; Spearman</p>
     ---

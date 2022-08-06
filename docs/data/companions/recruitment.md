@@ -7,5 +7,7 @@ Human companions can be recruited from each Inn using [Krowns] and [Influence]. 
 ## Prison
 Human and animal companions can be recruited from the prison for [Krowns]. Prisoners recruited have lower wages but will be more likely to leave the troop.
 
-## Combat
+## Capture
 Human and animal companions can be captured during combat using [Chains] for humans or [Rope] for animals. Once an enemy falls below 50% health, an adjacent companion can attempt to knock them out and capture them while they are engaged.
+
+{% include-markdown "../links.md" %}

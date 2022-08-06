@@ -2,9 +2,9 @@
 
 Rangers excel in inflicting damage and status effects from behind.
 
-* Class Weapon: [Dagger](../inventory/daggers.md)
-* Class Armor: [Light Armor](../inventory/light_armor.md)
-* Primary Attribute: [Dexterity](attributes.md#dexterity)
+* Class Weapon: [Daggers] &middot; [Dagger Weapon Skills]
+* Class Armor: [Light Armor]
+* Primary Attribute: [Dexterity]
 
 ## Specialization
 At each milestone, one of three specializations paths can chosen.
@@ -27,8 +27,6 @@ At each milestone, one of three specializations paths can chosen.
 {% include-markdown "../../partials/class_skills/ranger/low_blow.md" %}
 {% include-markdown "../../partials/class_skills/ranger/cold_blooded.md" %}
 
-## Dagger Weapon Skills
-{% include-markdown "../../partials/weapon_skills/dagger.md" %}
 
-## Off-Hand Weapon Skills
-{% include-markdown "../../partials/weapon_skills/off_hand.md" %}
+{% include-markdown "../links.md" %}
+{% include-markdown "../img.md" %}

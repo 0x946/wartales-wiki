@@ -1,7 +1,7 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/cold_blooded.png){align=left}
+    ![skill][cold_blooded.png]
      
     ### Cold Blooded
 
@@ -12,7 +12,7 @@
     Damage of attacks from behind increased by 20%.
 
     <p class="skill-mastery">
-        ![skill mastery](../../../static/img/skill_mastery.png) 
-        [Skill Mastery]: ?
+        ![skill mastery][skill_mastery.png] 
+        [Mastery] &middot;  ?
     </p> 
     </div>

@@ -6,3 +6,5 @@ Promoting a companion to Captain automatically teaches them the skill [Galvanize
 
 ## Lieutenant
 Promoting a companion to Lieutenant automatically teaches them the skill [Tactical Order] and allows them to be assigned to the [Strategy Table] in [Camp]. 
+
+{% include-markdown "../links.md" %}

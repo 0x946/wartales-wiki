@@ -1,7 +1,7 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/valorous_duel.png){align=left}
+    ![skill][valorous_duel.png]
     ### Valorous Duel
     <div class="skill">Passive</div>
     <p>Level 3 Brute, Swordsman, Warrior</p>

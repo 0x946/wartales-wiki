@@ -5,7 +5,7 @@ The main systems that the gameplay is composed of are outlined below.
 ## Troop
 The Troop is comprised of the individual [Companions](../index.md) that are currently being managed by the player. The troop is comprised of humans and animals, each of which play a different role in the troop. The troop requires [Food](../index.md) every night along with [Wages](../index.md) every few nights in order to stay [Happy](../index.md). There are several different types of Bonuses that can be gained from [Resting](../index.md), [Camping Gear](../index.md), and progression through the various [Paths](../index.md) available.
 
-## Knowledge
+## Knowledge Points
 The Knowledge ability helps the player learn new blueprints, bonuses, and recipes from the Compendium. Knowledge is gained by discovering new locations, crafting new items, or consuming [a specific type of item](../index.md). Each Knowledge point allows the player to unlock one ability from the [Compendium](../index.md).
 
 ## Scenario
@@ -23,11 +23,17 @@ The troop's happiness level will fluctuate based on the food consumed, quest eve
 ## Influence
 Influence is used to recruit new Companions, control the [Attribute](../index.md) progression of [Companions](../index.md) while levelling up, and unlock certain options in quest events.
 
-## Valour
+## Valour Points
 Valour points are used in combat to utilize certain types of skills. Valour points can be replenished through resting and certain types of companion events. 
+
+## Temporary Valour Points
+Temporary Valour Points are gained and used in combat to utilize certain types of skills, but do not persist after combat. Temporary Valour Points can be gained through passive skills & various combat events.
 
 ## Food
 The troop requires food before each rest. It's necessary to consistently manage the amount of food available in order to be able to continue exploring without making your [Companions](../index.md) unhappy. Food can be found or purchased throughout the world and subsequently cooked using the [Cooking Pot](../index.md) for additional bonuses.  
 
 ## Krowns
 Krowns are the basic currency of WarTales. The troop requires wages to be paid every 3 days. The acquisition of Krowns can be done in a variety of ways and is the most important resource in the game.
+
+## Mastery
+Skill mastery ?

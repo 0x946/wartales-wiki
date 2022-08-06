@@ -1,14 +1,16 @@
 !!! note ""
 
     <div class="skillbox">
-    ![skill](../../../static/img/skills/barrage.png){align=left}
-    ### Barrage <div class="skill">![valour point](../../../static/img/valour_point.png)</div> <div class="skill">![valour point](../../../static/img/valour_point.png)</div>
+    ![barrage][barrage.png]
+    <div class="skill">![valour point][valour_point.png]![valour point][valour_point.png]</div>
+    ### Barrage 
     <div class="skill">9m area</div>
-    <p>Level 3 &middot;> Infantryman &middot; [Light Armor](../../../data/inventory/light_armor.md)</p>
+    <p>Level 3 &middot;> Infantryman &middot; [Light Armor]</p>
     ---
     <p>Targets a specific area. Performs an [attack of opportunity] against the 3 first enemies crossing the area.</p> 
 
-    <p class="skill-mastery">![skill mastery](../../../static/img/skill_mastery.png) [Mastery] &middot;  Performs an [attack of opportunity] against the 4 first enemies crossing the area.
+    <p class="skill-mastery">
+        ![skill mastery][skill_mastery.png]
+        [Mastery] &middot;  Performs an [attack of opportunity] against the 4 first enemies crossing the area.
     </p>
-
     </div>
