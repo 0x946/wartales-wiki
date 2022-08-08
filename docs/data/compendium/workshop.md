@@ -31,7 +31,6 @@
 {% include-markdown "../../../partials/inventory/camping_gear/tent.md" %}
 {% include-markdown "../../../partials/inventory/camping_gear/cooking_pot.md" %}
 {% include-markdown "../../../partials/inventory/camping_gear/camp_chest.md" %}
-{% include-markdown "../../../partials/inventory/camping_gear/brewing_vat.md" %}
 {% include-markdown "../../../partials/inventory/camping_gear/gurney.md" %}
 {% include-markdown "../../../partials/inventory/camping_gear/training_dummy.md" %}
 {% include-markdown "../../../partials/inventory/camping_gear/watchkeeping_stool.md" %}
@@ -44,9 +43,10 @@
 {% include-markdown "../../../partials/inventory/camping_gear/stocks.md" %}
 
 ## Production Camp Equipment
+{% include-markdown "../../../partials/inventory/production_camp_equipment/beehive.md" %}
+{% include-markdown "../../../partials/inventory/camping_gear/brewing_vat.md" %}
 {% include-markdown "../../../partials/inventory/production_camp_equipment/meat_drying_rack.md" %}
 {% include-markdown "../../../partials/inventory/production_camp_equipment/tanning_rack.md" %}
-{% include-markdown "../../../partials/inventory/production_camp_equipment/beehive.md" %}
 
 {% include-markdown "../links.md" %}
 {% include-markdown "../img.md" %}
