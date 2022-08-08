@@ -44,7 +44,7 @@
 
 ## Production Camp Equipment
 {% include-markdown "../../../partials/inventory/production_camp_equipment/beehive.md" %}
-{% include-markdown "../../../partials/inventory/camping_gear/brewing_vat.md" %}
+{% include-markdown "../../../partials/inventory/production_camp_equipment/brewing_vat.md" %}
 {% include-markdown "../../../partials/inventory/production_camp_equipment/meat_drying_rack.md" %}
 {% include-markdown "../../../partials/inventory/production_camp_equipment/tanning_rack.md" %}
 
