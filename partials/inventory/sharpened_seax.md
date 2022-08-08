@@ -14,8 +14,8 @@
     <p>+ [Dexterity]</p>
     ---
     <p class="crafting">
-    ![anvil][anvil.png] 
-    [Blacksmithing] &middot; 
+    ![anvil][blacksmith.png] 
+    [Blacksmith] &middot; 
     7x [Iron Ore], 
     3x [Wood], 
     3x [Leather]

@@ -12,7 +12,7 @@
     **At the end of their turn, this unit heals 10% of their maximum [Health].**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Leather], 2x [White Leather], 2x [Comfrey], 2x [Snow Iris]
     (1)

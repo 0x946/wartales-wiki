@@ -11,7 +11,7 @@
     [Carrying Capacity]: +10
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     3x [Leather], 3x [Cloth], 2x [Iron Ore]
     </p>

@@ -12,7 +12,7 @@
     **High-Ranking Companion Assigned**: Generates 1 extra [Valour Point] during each [Rest].
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     3x [Leather], 2x [Cloth], 2x [Iron Ore], 8x [Wood]
     (1)

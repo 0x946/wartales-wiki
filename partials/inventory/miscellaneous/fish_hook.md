@@ -10,7 +10,7 @@
     <p>*An iron hook that keeps the fish on the line*.</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     1x [Iron Ore]
     </p>

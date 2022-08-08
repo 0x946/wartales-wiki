@@ -12,7 +12,7 @@
     **When this unit should die, it survives and the collar is destroyed.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Leather], 2x [White Leather], 4x [Crocswine Scale]
     (1)

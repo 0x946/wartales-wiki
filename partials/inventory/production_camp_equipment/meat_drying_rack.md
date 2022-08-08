@@ -11,7 +11,7 @@
     <p>**Assigned Companion**: Produces [cured meat] and [dried fish] during [Rests]..</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     2x [Cloth], 9x [Wood], 6x [Rope]
     (1)

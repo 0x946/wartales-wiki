@@ -12,7 +12,7 @@
     **Assigned Companion**: Doubles the [Influence] gained from the corpse.
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     2x [Leather], 4x [Grease], 12x [Wood]
     (1)

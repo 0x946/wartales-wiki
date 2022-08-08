@@ -11,7 +11,7 @@
     **Assigned Companion**: Produces brewed fruit [alcohol] during [Rests].
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     2x [Leather], 2x [Iron Ore], 10x [Wood]
     (1)

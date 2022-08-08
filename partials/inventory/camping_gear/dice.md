@@ -11,7 +11,7 @@
     <p>**Assigned Companion**: Generate +2 [happiness] during each [Rest] if two companions are assigned.</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Cloth], 2x [Iron Ore], 10x [Wood]
     (1)

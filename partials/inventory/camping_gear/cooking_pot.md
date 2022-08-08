@@ -11,7 +11,7 @@
     **Assigned [Cook]**: Reduces daily [food] consumption by 2.
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     8x [Iron Ore], 4x [Wood]
     </p>

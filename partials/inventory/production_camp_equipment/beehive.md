@@ -11,7 +11,7 @@
     <p>**Assigned Companion**: Produces [Honey] with [plants] during [Rests].</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     5x [Wood], 8x [Rope], 10x [Wheat]
     (1)

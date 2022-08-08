@@ -11,7 +11,7 @@
     **Bonus**: Maximum [Valour Points] increased by 2.
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     6x [Leather], 6x [Cloth], 2x [Iron Ore], 2x [Rope]
     </p>

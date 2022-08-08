@@ -12,7 +12,7 @@
     Increases the [Knowledge Points] gained during a [Rest].
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     2x [Leather], 2x [Cloth], 2x [Iron Ore], 9x [Wood]
     (1)

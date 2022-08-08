@@ -12,7 +12,7 @@
     **When this unit has 30% [Health] or less, it gains [Berserk].**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Leather], 4x [White Leather], 2x [Iron Ore], 4x [Infected Blood]
     (1)

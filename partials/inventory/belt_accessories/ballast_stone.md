@@ -12,7 +12,7 @@
     **[Precision] +10%.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     3x [Leather], 2x [Sandstone], 4x [Rope]
     (1)

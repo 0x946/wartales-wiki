@@ -12,7 +12,7 @@
     **This unit can be controlled in combat.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Leather], 4x [Grease], 2x [Venison]
     (1)

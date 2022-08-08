@@ -12,7 +12,7 @@
     **Chances to capture an animal increased by 15%.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     3x [Leather], 1x [Grease], 2x [Venison], 2x [Carp]
     (1)

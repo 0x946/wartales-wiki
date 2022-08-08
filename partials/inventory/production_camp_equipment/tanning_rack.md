@@ -11,7 +11,7 @@
     <p>**Assigned Companion**: Produces leather from animal [carcasses] during [Rests].</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     2x [Cloth], 9x [Wood], 6x [Rope]
     (1)

@@ -12,7 +12,7 @@
     **Bonus not yet implemented.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     5x [Cloth], 4x [Wood], 3x [Rope]
     (1)

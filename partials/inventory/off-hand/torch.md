@@ -10,7 +10,7 @@
     <p>*A torch that can illuminate the darkest places as well as set infected flesh on fire.*</p>
     [Critical Hit]: +3% &middot; [Vision] +5%
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     1x [Wood], 3x [Cloth], 2x [Grease]
     </p>

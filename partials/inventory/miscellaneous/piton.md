@@ -10,7 +10,7 @@
     <p>*When driven into a rock, this spike can be used to hang a rope and descend from steep heights.*</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     1x [Iron Ore], 1x [Rope]
     </p>

@@ -11,7 +11,7 @@
     <p>**Assigned Companion**: Reduces the chance of being attacked during a [Rest] and reduces the chance [prisoners] will escape.</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     5x [Leather], 10x [Wood]
     (1)

@@ -12,7 +12,7 @@
     **Increases the durability of [lockpicks] by 20%.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     8x [Cloth], 1x [Leather], 1x [Rope]
     (1)

@@ -12,7 +12,7 @@
     **Assigned [Bard]**: Greants each companion +1 [Willpower].
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Leather], 6x [Wood], 6x [Rope], 2x [Grease]
     (1)

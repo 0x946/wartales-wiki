@@ -12,7 +12,7 @@
     **Bonus**: [Experience] gained in combat increased by 5%.
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Cloth], 4x [Iron Ore], 4x [Wood], 3x [Rope]
     (1)

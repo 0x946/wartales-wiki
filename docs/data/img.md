@@ -2,7 +2,12 @@
 [skill_mastery.png]: ../static/img/icons/skill_mastery.png
 [valour_point.png]: ../static/img/icons/valour_point.png
 [temporary_valour_point.png]: ../static/img/icons/temporary_valour_point.png
-[anvil.png]: ../static/img/icons/anvil.png
+[blacksmith.png]: ../static/img/icons/anvil.png
+[alchemist.png]: ../static/img/icons/apothecary_table.png
+[tinkerer.png]: ../static/img/icons/workshop.png
+[cook.png]: ../static/img/icons/cooking_pot.png
+
+
 
 [comment]: # (shared class skills)
 [valorous_audacity.png]: ../static/img/skills/valorous_audacity.png

@@ -12,7 +12,7 @@
     **[Critical Hit] against [Bleeding] targets increased by 10%.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     3x [Leather], 5x [Sandstone], 1x [Pristine Fang]
     (1)

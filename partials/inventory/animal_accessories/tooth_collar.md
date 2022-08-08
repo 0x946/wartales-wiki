@@ -12,7 +12,7 @@
     **[Critical Damage] +10%.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     5x [Leather], 2x [Iron Ore]
     </p>

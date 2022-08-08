@@ -14,7 +14,7 @@
     **The maximum [Terror] a Companion can suffer is increased by 1.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     5x [Leather], 2x [Rope], 5x [Pristine Fang]
     (1)

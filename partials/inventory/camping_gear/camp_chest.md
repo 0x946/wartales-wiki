@@ -12,7 +12,7 @@
     **Assigned [Thief]**: Launder the items stolen during [Rests] little by little.
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     6x [Iron Ore], 6x [Wood]
     </p>

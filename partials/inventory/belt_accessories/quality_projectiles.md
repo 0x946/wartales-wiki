@@ -12,7 +12,7 @@
     **Damage of Shooting attacks increased by 10%.**
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     3x [Leather], 4x [Iron Ore]
     (1)

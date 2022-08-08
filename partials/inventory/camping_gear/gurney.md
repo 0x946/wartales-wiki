@@ -11,7 +11,7 @@
     **Assigned Companion**: 1 [Injury] is healed during a [Rest].
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     4x [Leather], 4x [Cloth], 4x [Wood], 5x [Rope]
     </p>

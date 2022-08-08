@@ -10,7 +10,7 @@
     <p>*This small lockpick can be used to open locks that separate a thief from their loot*.</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     1x [Iron Ore]
     </p>

@@ -10,7 +10,7 @@
     <p>**Assigned Companion**: The assigned prisoners cannot escape during a Rest.</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     5x [Iron Ore], 9x [Wood]
     (1)

@@ -10,7 +10,7 @@
     <p>**Assigned Companion**: You can whip your Companions to encourage them to work.</p>
 
     ---
-    <p class="crafting">![anvil][anvil.png] 
+    <p class="crafting">![anvil][tinkerer.png] 
     [Tinkerer] &middot; 
     6x [Leather], 6x [Wood], 4x [Rope]
     (1)
