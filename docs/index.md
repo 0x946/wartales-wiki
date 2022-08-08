@@ -1,16 +1,17 @@
----
-title: Main
----
-<style>
-
-</style>
-# Main
+# Wartales Wiki
 
 ![wartales](static/img/headers/wartales.gif)
 
-<p>Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!</p>
+## Overview
+<p>Wartales Wiki is a heavily moderated compendium of information for the game Wartales. Community contributions are welcome but reviewed and moderated before being published. This is a continual work in progress so it is likely that missing or incorrect information may be encountered. If you are interested in contributing to or moderating this wiki please contact wartales.wiki at gmail.com.</p>
 
-<p>It has been a hundred years since the world saw the fall of the once great Edoran Empire at the hands of an unprecedented plague that swept the nation. In the turmoil and uncertainty that has followed, mercenary work, banditry and thievery across the land is abundant, as honor has long since become an almost entirely forgotten virtue.</p>
+## Updates
 
-<p>Now, prepare to lead a group of unscrupulous characters who revel in such activity in a massive open world where combat, death and a thirst for riches will shape and define your day to day life. You are not special, the chosen one or a once in a millennia hero ushering in a new era of peace. Your goal is solely to survive and thrive in this harsh and hostile world.</p>
+### August 7, 2022
+* Completed first pass of the [Workshop] crafting page.
+* Reworked all links and images to a single reference style pattern to clean up readability of individual documents and make interconnectivity of the Wiki much more seamless.
 
+### August 4, 2022
+* Completed first pass of [Companions] section. Major pages include: [Archer], [Brute], [Ranger], [Spearman], [Swordsman], [Warrior], as well as [weapon skills], along with the various mechanics surrounding managing companions.
+
+{% include-markdown "data/links.md" %}

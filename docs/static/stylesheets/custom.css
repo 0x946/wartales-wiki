@@ -292,13 +292,29 @@ hr {
 .tallequipmentbox img {
     margin-top: 0 !important;
     margin-bottom: 0 !important;
-    height: 9.6em;
-    width: 4.8em;
+    height: 6.4em;
+    width: 3.2em;
+    float: left;
+    margin-right: 1em;
 }
 .tallequipmentbox h3 {
     margin: 1em 0 !important;
 }
 .tallequipmentbox hr {
+    height: 0px;
+}
+.equipmentbox img {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    height: 3.2em;
+    width: 3.2em;
+    float: left;
+    margin-right: 1em;
+}
+.equipmentbox h3 {
+    margin: 1em 0 !important;
+}
+.equipmentbox hr {
     height: 0px;
 }
 .weaponskill {
@@ -308,6 +324,9 @@ hr {
     width: 2.4em;
     margin: 0 .5em 0 0 !important;
     vertical-align: middle;
+}
+.crafting {
+    font-size: .9em;
 }
 
 .crafting img {

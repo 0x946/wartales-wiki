@@ -316,4 +316,5 @@
     ### Make an Example of them!
     ---
     *<p>Your troop fears being whipped by too strong a hand.</p>*
+    The effect of this knowledge is uninimplemented at the moment.
     </div>

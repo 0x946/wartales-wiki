@@ -1,6 +1,8 @@
 [comment]: # (icons)
-[skill_mastery.png]: ../static/img/skill_mastery.png
-[valour_point.png]: ../static/img/valour_point.png
+[skill_mastery.png]: ../static/img/icons/skill_mastery.png
+[valour_point.png]: ../static/img/icons/valour_point.png
+[temporary_valour_point.png]: ../static/img/icons/temporary_valour_point.png
+[anvil.png]: ../static/img/icons/anvil.png
 
 [comment]: # (shared class skills)
 [valorous_audacity.png]: ../static/img/skills/valorous_audacity.png
@@ -142,3 +144,41 @@
 [cleave.png]: ../static/img/weapon_skills/cleave.png
 [interception.png]: ../static/img/weapon_skills/interception.png
 [furious_flogging.png]: ../static/img/weapon_skills/furious_flogging.png
+
+[sharpened_seax.png]: ../static/img/inventory/daggie.png
+[lockpick.png]: ../static/img/inventory/lockpick.png
+[piton.png]: ../static/img/inventory/piton.png
+[torch.png]: ../static/img/inventory/torch.png
+[fish_hook.png]: ../static/img/inventory/fish_hook.png
+[tent.png]: ../static/img/inventory/tent.png
+[cooking_pot.png]: ../static/img/inventory/cooking_pot.png
+[camp_chest.png]: ../static/img/inventory/camp_chest.png
+[saddlebags.png]: ../static/img/inventory/saddlebags.png
+[brace.png]: ../static/img/inventory/brace.png
+[velvet_pouch.png]: ../static/img/inventory/velvet_pouch.png
+[tooth_collar.png]: ../static/img/inventory/tooth_collar.png
+[spiked_collar.png]: ../static/img/inventory/spiked_collar.png
+[infused_collar.png]: ../static/img/inventory/infused_collar.png
+[protective_collar.png]: ../static/img/inventory/protective_collar.png
+[bacon_bound_collar.png]: ../static/img/inventory/bacon_bound_collar.png
+[sharp_fang.png]: ../static/img/inventory/sharp_fang.png
+[quality_projectiles.png]: ../static/img/inventory/quality_projectiles.png
+[ballast_stone.png]: ../static/img/inventory/ballast_stone.png
+[treats.png]: ../static/img/inventory/treats.png
+[trackers_charm.png]: ../static/img/inventory/trackers_charm.png
+
+
+[brewing_vat.png]: ../static/img/inventory/brewing_vat.png
+[gurney.png]: ../static/img/inventory/gurney.png
+[training_dummy.png]: ../static/img/inventory/training_dummy.png
+[meat_drying_rack.png]: ../static/img/inventory/meat_drying_rack.png
+[tanning_rack.png]: ../static/img/inventory/tanning_rack.png
+[beehive.png]: ../static/img/inventory/beehive.png
+[watchkeeping_stool.png]: ../static/img/inventory/watchkeeping_stool.png
+[lectern.png]: ../static/img/inventory/lectern.png
+[dice.png]: ../static/img/inventory/dice.png
+[impaling_stake.png]: ../static/img/inventory/impaling_stake.png
+[lute.png]: ../static/img/inventory/lute.png
+[strategy_table.png]: ../static/img/inventory/strategy_table.png
+[whip.png]: ../static/img/inventory/whip.png
+[stocks.png]: ../static/img/inventory/stocks.png

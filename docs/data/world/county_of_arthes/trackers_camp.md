@@ -7,8 +7,6 @@ Gives [Arthesian Hunt] (According to the report , someone was attacked in a fiel
 
 Completing the hunt: [Reinforced Layer of the Falcon], [Blueprint: Reinforced Layer of the Falcon]
 
-
-
 ### Druid Henasta
 Talks about face tats
 

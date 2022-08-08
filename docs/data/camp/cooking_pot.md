@@ -1,6 +1,0 @@
----
-hide:
-  - toc
----
-
-# Cooking Pot

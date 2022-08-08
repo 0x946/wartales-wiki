@@ -1,6 +1,0 @@
----
-hide:
-  - toc
----
-
-# Strategy Table

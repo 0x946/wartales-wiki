@@ -15,6 +15,12 @@
 [Krowns]: gameplay.md#krowns
 [Mastery]: gameplay.md#mastery
 
+[Companions]: companions/index.md
+[Compendium]: compendium/index.md
+[Workshop]: compendium/workshop.md
+
+
+
 [comment]: # (companions/attributes.md)
 [Attributes]: companions/attributes.md
 [Strength]: companions/attributes.md#strength 
@@ -77,6 +83,7 @@
 [Alchemist]: companions/professions.md#alchemist
 [Angler]: companions/professions.md#angler
 [Blacksmith]: companions/professions.md#blacksmith
+[Blacksmithing]: companions/professions.md#blacksmith
 [Cook]: companions/professions.md#cook
 [Miner]: companions/professions.md#miner
 [Scholar]: companions/professions.md#scholar
@@ -202,3 +209,49 @@
 [Tyrannical]: companions/traits.md#tyrannical
 [Valiant]: companions/traits.md#valiant
 [Volunteer]: companions/traits.md#volunteer
+
+[comment]: # (inventory/)
+[Inventory]: inventory/index.md
+[Alcohol]: inventory/alcohol.md
+[Animal Accessories]: inventory/animal_accessories.md
+[Armour Layers]: inventory/armour_layers.md
+[Axes]: inventory/axes.md
+[Backpack Accessories]: inventory/backpack_accessories.md
+[Belt Accessories]: inventory/belt_accessories.md
+[Bows]: inventory/bows.md
+[Camping Gear]: inventory/camping_gear.md
+[Components]: inventory/components.md
+[Consumables]: inventory/consumables.md
+[Cooked Meal]: inventory/cooked_meal.md
+[Daggers]: inventory/daggers.md
+[Fish]: inventory/fish.md
+[Food]: inventory/food.md
+[Heavy Armor]: inventory/heavy_armor.md
+[Hunt Map]: inventory/hunt_map.md
+[Light Armor]: inventory/light_armor.md
+[Maces]: inventory/maces.md
+[Manuals]: inventory/manual.md
+[Meat]: inventory/meat.md
+[Medium Armor]: inventory/medium_armor.md
+[Miscellaneous]: inventory/miscellaneous.md
+[Off-Hand]: inventory/offhand.md
+[Plants]: inventory/plants.md
+[Polearms]: inventory/polearms.md
+[Recipes]: inventory/recipes.md
+[Shields]: inventory/shields.md
+[Swords]: inventory/swords.md
+[Trade Goods]: inventory/trade_goods.md
+[Trinkets]: inventory/trinkets.md
+[Vegetables]: inventory/vegetables.md
+
+[comment]: # (inventory/components.md)
+[Cloth]: inventory/components.md#cloth
+[Grease]: inventory/components.md#grease
+[Iron Ore]: inventory/components.md#iron-ore
+[Leather]: inventory/components.md#leather
+[Vial]: inventory/components.md#vial
+[Wheat]: inventory/components.md#wheat
+[White Leather]: inventory/components.md#white-leather
+[Wood]: inventory/components.md#wood
+
+
