@@ -8,7 +8,7 @@
     ### Padded Brigadine
     ---
     <p>*This brigandine provides a good compromise between protection and freedom of movement.*</p>
-    <p>Armor +24, Guard +13%</p>
+    <p>+ [Armor], + [Guard]</p>
     ---
     <p class="crafting">
     ![anvil][blacksmith.png] 

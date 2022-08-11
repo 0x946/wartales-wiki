@@ -8,7 +8,7 @@
     ### Reinforced Plate Armor
     ---
     <p>*This suit of armour is designed to withstand just about anything.*</p>
-    <p>[Armor] +30, [Guard] +18%, [Movement] -2</p>
+    <p>+ [Armor], + [Guard], - [Movement]</p>
     ---
     <p class="crafting">
     ![anvil][blacksmith.png] 
