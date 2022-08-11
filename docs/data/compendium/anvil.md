@@ -19,10 +19,6 @@
 {% include-markdown "../../../partials/inventory/shields/targe.md" %}
 {% include-markdown "../../../partials/inventory/shields/iron_plated_roundel.md" %}
 
-## Backpack Accessories
-{% include-markdown "../../../partials/inventory/backpack_accessories/salt_scoop.md" %}
-{% include-markdown "../../../partials/inventory/backpack_accessories/cooking_ladle.md" %}
-
 ## Off-Hand
 {% include-markdown "../../../partials/inventory/off-hand/throwing_knife.md" %}
 {% include-markdown "../../../partials/inventory/off-hand/throwing_axe.md" %}
@@ -56,6 +52,10 @@
 ## Bows
 {% include-markdown "../../../partials/inventory/bows/longbow.md" %}
 {% include-markdown "../../../partials/inventory/bows/bow_of_the_brave.md" %}
+
+## Backpack Accessories
+{% include-markdown "../../../partials/inventory/backpack_accessories/salt_scoop.md" %}
+{% include-markdown "../../../partials/inventory/backpack_accessories/cooking_ladle.md" %}
 
 ## Armour Layers
 {% include-markdown "../../../partials/inventory/armour_layers/defenders_reinforced_layer.md" %}

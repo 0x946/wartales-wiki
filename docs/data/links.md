@@ -18,6 +18,7 @@
 [Companions]: companions/index.md
 [Compendium]: compendium/index.md
 [Workshop]: compendium/workshop.md
+[Anvil]: compendium/anvil.md
 
 
 

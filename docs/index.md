@@ -7,6 +7,9 @@
 
 ## Updates
 
+### August 11, 2022
+* Completed first pass of the [Anvil] crafting page.
+
 ### August 7, 2022
 * Completed first pass of the [Workshop] crafting page.
 * Reworked all links and images to a single reference style pattern to clean up readability of individual documents and make interconnectivity of the Wiki much more seamless.
