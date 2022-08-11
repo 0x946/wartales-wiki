@@ -272,8 +272,8 @@ hr {
 }
 .weaponskillbox img {
     margin-top: 0 !important;
-    height: 3.2em;
-    width: 3.2em;
+    height: 3.2em !important;
+    width: 3.2em !important;
     float: left;
     margin-right: 1em;
 }
@@ -320,8 +320,8 @@ hr {
 .weaponskill {
 }
 .weaponskill img {
-    height: 2.4em;
-    width: 2.4em;
+    height: 2.4em !important;
+    width: 2.4em !important;
     margin: 0 .5em 0 0 !important;
     vertical-align: middle;
 }

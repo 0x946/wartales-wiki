@@ -9,7 +9,7 @@
     ---
 
     <p>*Play songs in taverns to earn a few [Krowns] and a little [influence].*</p>
-    **Assigned [Bard]**: Greants each companion +1 [Willpower].
+    **Assigned [Bard]**: Grants each companion +1 [Willpower].
 
     ---
     <p class="crafting">![anvil][tinkerer.png] 

@@ -38,6 +38,9 @@ plugins:
   - include-markdown
   - search
 
+watch:
+- partials
+
 nav:
 
   - Companions:

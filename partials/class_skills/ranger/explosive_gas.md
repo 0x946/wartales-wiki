@@ -15,6 +15,6 @@
 
     <p class="skill-mastery">
         ![skill mastery][skill_mastery.png] 
-        [Mastery] &middot;  ?
+        [Mastery] &middot;  Leaves a pool of [Poison].
     </p> 
     </div>

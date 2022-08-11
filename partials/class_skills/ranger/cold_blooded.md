@@ -13,6 +13,6 @@
 
     <p class="skill-mastery">
         ![skill mastery][skill_mastery.png] 
-        [Mastery] &middot;  ?
+        [Mastery] &middot; Damage of attacks from behind increased by 35%.
     </p> 
     </div>

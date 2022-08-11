@@ -87,7 +87,7 @@
 [slash.png]: ../static/img/weapon_skills/slash.png
 [wild_marking.png]: ../static/img/weapon_skills/wild_marking.png
 [bravado.png]: ../static/img/weapon_skills/bravado.png
-[slice_and_dice.png]: ../static/img/weapon_skills/slice_and_dice.png
+[slice_and_dice.png]: ../static/img/weapon_skills/slice_and_dice.png 
 [maim.png]: ../static/img/weapon_skills/maim.png
 [arm_of_justice.png]: ../static/img/weapon_skills/arm_of_justice.png
 [obliteration.png]: ../static/img/weapon_skills/obliteration.png
@@ -142,7 +142,7 @@
 [flurry_of_blows.png]: ../static/img/weapon_skills/flurry_of_blows.png
 
 [comment]: # (sword weapon skills)
-[slice.png]: ../static/img/weapon_skills/slice.png
+[slice.png]: ../static/img/weapon_skills/slice.png 
 [team_strike.png]: ../static/img/weapon_skills/team_strike.png
 [holding_the_line.png]: ../static/img/weapon_skills/holding_the_line.png
 [hallowed_strike.png]: ../static/img/weapon_skills/hallowed_strike.png
@@ -150,7 +150,7 @@
 [interception.png]: ../static/img/weapon_skills/interception.png
 [furious_flogging.png]: ../static/img/weapon_skills/furious_flogging.png
 
-[sharpened_seax.png]: ../static/img/inventory/daggie.png
+[comment]: # (workshop)
 [lockpick.png]: ../static/img/inventory/lockpick.png
 [piton.png]: ../static/img/inventory/piton.png
 [torch.png]: ../static/img/inventory/torch.png
@@ -171,8 +171,6 @@
 [ballast_stone.png]: ../static/img/inventory/ballast_stone.png
 [treats.png]: ../static/img/inventory/treats.png
 [trackers_charm.png]: ../static/img/inventory/trackers_charm.png
-
-
 [brewing_vat.png]: ../static/img/inventory/brewing_vat.png
 [gurney.png]: ../static/img/inventory/gurney.png
 [training_dummy.png]: ../static/img/inventory/training_dummy.png
@@ -187,3 +185,51 @@
 [strategy_table.png]: ../static/img/inventory/strategy_table.png
 [whip.png]: ../static/img/inventory/whip.png
 [stocks.png]: ../static/img/inventory/stocks.png
+
+[comment]: # (anvil)
+[rags.png]: ../static/img/inventory/rags.png
+[targe.png]: ../static/img/inventory/targe.png
+[throwing_knife.png]: ../static/img/inventory/throwing_knife.png
+[throwing_axe.png]: ../static/img/inventory/throwing_axe.png
+[sharpened_seax.png]: ../static/img/inventory/daggie.png
+[iron_bec_de_corbin.png]: ../static/img/inventory/iron_bec_de_corbin.png
+[iron_two_handed_mace.png]: ../static/img/inventory/iron_two_handed_mace.png
+[iron_axe.png]: ../static/img/inventory/iron_axe.png
+[iron_battle_axe.png]: ../static/img/inventory/iron_battle_axe.png
+[iron_ulfberht_sword.png]: ../static/img/inventory/iron_ulfberht_sword.png
+[iron_claymore.png]: ../static/img/inventory/iron_claymore.png
+[iron_guisarme.png]: ../static/img/inventory/iron_guisarme.png
+[longbow.png]: ../static/img/inventory/longbow.png
+[reinforced_plate_armor.png]: ../static/img/inventory/reinforced_plate_armor.png
+[padded_brigadine.png]: ../static/img/inventory/padded_brigadine.png
+[padded_doublet.png]: ../static/img/inventory/padded_doublet.png
+[iron_plated_roundel.png]: ../static/img/inventory/iron_plated_roundel.png
+[salt_scoop.png]: ../static/img/inventory/salt_scoop.png
+[defenders_reinforced_layer.png]: ../static/img/inventory/defenders_reinforced_layer.png
+[trackers_reinforced_layer.png]: ../static/img/inventory/trackers_reinforced_layer.png
+[hunters_reinforced_layer.png]: ../static/img/inventory/hunters_reinforced_layer.png
+[warriors_reinforced_layer.png]: ../static/img/inventory/warriors_reinforced_layer.png
+[bards_reinforced_layer.png]: ../static/img/inventory/bards_reinforced_layer.png
+[sages_reinforced_layer.png]: ../static/img/inventory/sages_reinforced_layer.png
+[cooking_ladle.png]: ../static/img/inventory/cooking_ladle.png
+[light_pony_plate.png]: ../static/img/inventory/light_pony_plate.png
+[medium_pony_plate.png]: ../static/img/inventory/medium_pony_plate.png
+[heavy_pony_plate.png]: ../static/img/inventory/heavy_pony_plate.png
+[steel_seax.png]: ../static/img/inventory/steel_seax.png
+[steel_bec_de_corbin.png]: ../static/img/inventory/steel_bec_de_corbin.png
+[steel_two_handed_mace.png]: ../static/img/inventory/steel_two_handed_mace.png
+[steel_axe.png]: ../static/img/inventory/steel_axe.png
+[steel_battle_axe.png]: ../static/img/inventory/steel_battle_axe.png
+[steel_ulfberht_sword.png]: ../static/img/inventory/steel_ulfberht_sword.png
+[steel_claymore.png]: ../static/img/inventory/steel_claymore.png
+[steel_guisarme.png]: ../static/img/inventory/steel_guisarme.png
+[bow_of_the_brave.png]: ../static/img/inventory/bow_of_the_brave.png
+[superior_plate_armor.png]: ../static/img/inventory/superior_plate_armor.png
+[superior_brigadine.png]: ../static/img/inventory/superior_brigadine.png
+[superior_undercoat.png]: ../static/img/inventory/superior_undercoat.png
+[reinforced_layer_of_the_stag.png]: ../static/img/inventory/reinforced_layer_of_the_stag.png
+[reinforced_layer_of_the_falcon.png]: ../static/img/inventory/reinforced_layer_of_the_falcon.png
+[reinforced_layer_of_the_rat.png]: ../static/img/inventory/reinforced_layer_of_the_rat.png
+[reinforced_layer_of_the_serpent.png]: ../static/img/inventory/reinforced_layer_of_the_serpent.png
+[reinforced_layer_of_the_fox.png]: ../static/img/inventory/reinforced_layer_of_the_fox.png
+[reinforced_layer_of_the_ox.png]: ../static/img/inventory/reinforced_layer_of_the_ox.png
