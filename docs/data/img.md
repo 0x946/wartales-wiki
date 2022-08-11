@@ -191,7 +191,7 @@
 [targe.png]: ../static/img/inventory/targe.png
 [throwing_knife.png]: ../static/img/inventory/throwing_knife.png
 [throwing_axe.png]: ../static/img/inventory/throwing_axe.png
-[sharpened_seax.png]: ../static/img/inventory/daggie.png
+[sharpened_seax.png]: ../static/img/inventory/sharpened_seax.png
 [iron_bec_de_corbin.png]: ../static/img/inventory/iron_bec_de_corbin.png
 [iron_two_handed_mace.png]: ../static/img/inventory/iron_two_handed_mace.png
 [iron_axe.png]: ../static/img/inventory/iron_axe.png
