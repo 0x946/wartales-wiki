@@ -1,7 +1,7 @@
 !!! note annotate ""
 
     <div class="equipmentbox">
-    ![poisonous oil i][poisonous_oil_i.png]
+    ![][poisonous_oil_i.png]
     <div style="float: right;">
     Krowns: 41 &middot; Weight: 0.5
     </div>

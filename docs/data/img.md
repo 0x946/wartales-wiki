@@ -260,3 +260,16 @@
 [perforating_oil_i.png]: ../static/img/inventory/perforating_oil_i.png
 [misty_oil_i.png]: ../static/img/inventory/misty_oil_i.png
 
+[poisonous_oil_concentrate.png]: ../static/img/inventory/poisonous_oil_concentrate.png
+[acidic_oil_concentrate.png]: ../static/img/inventory/acidic_oil_concentrate.png
+[strength_oil_concentrate.png]: ../static/img/inventory/strength_oil_concentrate.png
+[misty_oil_concentrate.png]: ../static/img/inventory/misty_oil_concentrate.png
+[unstable_oil_concentrate.png]: ../static/img/inventory/unstable_oil_concentrate.png
+[bleeding_oil_concentrate.png]: ../static/img/inventory/bleeding_oil_concentrate.png
+[ether.png]: ../static/img/inventory/ether.png
+[poison_vial.png]: ../static/img/inventory/poison_vial.png
+[toxic_balm.png]: ../static/img/inventory/toxic_balm.png
+[antidote.png]: ../static/img/inventory/antidote.png
+[herbarium.png]: ../static/img/inventory/herbarium.png
+
+
