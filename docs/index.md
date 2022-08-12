@@ -7,7 +7,7 @@
 
 ## Updates
 
-### August 11, 2022
+### August 12, 2022
 * Entries added to the [Apothecary Table] crafting page.
 
 ### August 11, 2022
