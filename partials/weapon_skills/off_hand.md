@@ -80,3 +80,15 @@
     <p>Weapons: [Poisoned Throwing Knife]</p>
 
     </div>
+
+!!! note ""
+
+    <div class="weaponskillbox">
+    ![skill][contamination.png]
+    <div class="skill">9m area</div>
+    ### Contamination
+    ---
+    <p>Applies 2 [Fever] to all enemies in the area.</p>
+    <p>Weapons: [Swamp Flask]</p>
+
+    </div>

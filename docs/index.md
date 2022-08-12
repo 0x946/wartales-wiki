@@ -8,6 +8,9 @@
 ## Updates
 
 ### August 11, 2022
+* Entries added to the [Apothecary Table] crafting page.
+
+### August 11, 2022
 * Completed first pass of the [Anvil] crafting page.
 
 ### August 7, 2022

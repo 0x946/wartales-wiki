@@ -19,6 +19,7 @@
 [Compendium]: compendium/index.md
 [Workshop]: compendium/workshop.md
 [Anvil]: compendium/anvil.md
+[Apothecary Table]: compendium/apothecary_table.md
 
 
 

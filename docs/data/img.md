@@ -233,3 +233,30 @@
 [reinforced_layer_of_the_serpent.png]: ../static/img/inventory/reinforced_layer_of_the_serpent.png
 [reinforced_layer_of_the_fox.png]: ../static/img/inventory/reinforced_layer_of_the_fox.png
 [reinforced_layer_of_the_ox.png]: ../static/img/inventory/reinforced_layer_of_the_ox.png
+
+[comment]: # (anvil)
+[medicine.png]: ../static/img/inventory/medicine.png
+[flawed_remedy.png]: ../static/img/inventory/flawed_remedy.png
+[incendiary_flask.png]: ../static/img/inventory/incendiary_flask.png
+[blinding_powder.png]: ../static/img/inventory/blinding_powder.png
+[hand_bomblet.png]: ../static/img/inventory/hand_bomblet.png
+[poisoned_throwing_knife.png]: ../static/img/inventory/poisoned_throwing_knife.png
+[swamp_flask.png]: ../static/img/inventory/swamp_flask.png
+[contamination.png]: ../static/img/weapon_skills/contamination.png
+[weeding_potion.png]: ../static/img/inventory/weeding_potion.png
+[pristine_essence.png]: ../static/img/inventory/pristine_essence.png
+[acidic_oil_i.png]: ../static/img/inventory/acidic_oil_i.png
+[bleeding_oil_i.png]: ../static/img/inventory/bleeding_oil_i.png
+[poisonous_oil_i.png]: ../static/img/inventory/poisonous_oil_i.png
+[strength_oil_i.png]: ../static/img/inventory/strength_oil_i.png
+[swiftness_oil_i.png]: ../static/img/inventory/swiftness_oil_i.png
+[fortifying_oil_i.png]: ../static/img/inventory/fortifying_oil_i.png
+[animal_essence_oil_i.png]: ../static/img/inventory/animal_essence_oil_i.png
+[conversion_oil_i.png]: ../static/img/inventory/conversion_oil_i.png
+[plague_essence_oil_i.png]: ../static/img/inventory/plague_essence_oil_i.png
+[infectious_oil_i.png]: ../static/img/inventory/infectious_oil_i.png
+[unstable_oil_i.png]: ../static/img/inventory/unstable_oil_i.png
+[sharpening_oil_i.png]: ../static/img/inventory/sharpening_oil_i.png
+[perforating_oil_i.png]: ../static/img/inventory/perforating_oil_i.png
+[misty_oil_i.png]: ../static/img/inventory/misty_oil_i.png
+
